@@ -1,0 +1,6771 @@
+1
+00:01:39,410 --> 00:01:41,410
+Received. Thank you, sir.
+
+2
+00:01:41,430 --> 00:01:42,430
+The target has been secured.
+
+3
+00:01:42,460 --> 00:01:44,460
+Our team is on the way back.
+
+4
+00:01:45,480 --> 00:01:47,480
+Command Center, this is Patrol Unit 00638.
+
+5
+00:01:47,500 --> 00:01:49,500
+We're on our way back, over. Received.
+
+6
+00:01:49,530 --> 00:01:51,530
+It's time.
+
+7
+00:02:06,450 --> 00:02:08,450
+Start with a small pawn first.
+
+8
+00:02:19,480 --> 00:02:21,480
+What's wrong?
+
+9
+00:02:21,500 --> 00:02:23,980
+Maybe it's nothing. I felt
+the screen flickered a bit earlier.
+
+10
+00:02:27,420 --> 00:02:28,580
+[LUSO SAFE AUTOMATIC ALARM]
+
+11
+00:02:29,420 --> 00:02:32,420
+Madam, the alarm in the Steel Room
+at Bank Asia Macau has sounded.
+
+12
+00:02:32,450 --> 00:02:35,450
+CPSP police also received the alarm.
+Their patrol unit is heading there.
+
+13
+00:02:35,470 --> 00:02:37,470
+Where is their nearest patrol unit?
+
+14
+00:02:37,500 --> 00:02:39,400
+They left 2 minutes
+ago. On the bridge.
+
+15
+00:02:39,420 --> 00:02:41,420
+Estimated 5 minutes. Where is our team?
+
+16
+00:02:41,440 --> 00:02:42,446
+Madam, Captain Wu Yaolei here.
+
+17
+00:02:42,470 --> 00:02:44,470
+Team Alpha is in pursuit.
+
+18
+00:02:44,490 --> 00:02:46,496
+Du Ping, activate S.P.A.I.S.
+S.P.A.I.S. activated.
+
+19
+00:02:46,520 --> 00:02:48,520
+AI CCTV & PURSUIT SYSTEM
+(S.P.A.I.S.) CODE NAME: "Spice Girl"
+
+20
+00:02:48,540 --> 00:02:50,540
+Rewind footage from 4,328 Skyeye cameras
+
+21
+00:02:50,560 --> 00:02:53,460
+within a 3 km radius of the bank.
+
+22
+00:02:53,490 --> 00:02:55,490
+Scanning for suspicious vehicles.
+
+23
+00:02:59,410 --> 00:03:01,410
+Skyeye trace found. Identified something.
+
+24
+00:03:04,440 --> 00:03:06,440
+They didn't want cash.
+
+25
+00:03:06,460 --> 00:03:08,460
+What do you mean? They
+left empty-handed.
+
+26
+00:03:08,480 --> 00:03:10,480
+Madam, they were spotted on camera 120C,
+
+27
+00:03:10,510 --> 00:03:13,410
+exiting Liwan Circle, heading south.
+
+28
+00:03:13,430 --> 00:03:16,436
+Direct all nearby patrol cars
+to intercept their escape route.
+
+29
+00:03:16,460 --> 00:03:17,460
+Understood, Madam.
+
+30
+00:03:17,480 --> 00:03:18,480
+Attention, all units.
+
+31
+00:03:18,500 --> 00:03:21,400
+The suspect's black MPV
+is disguised as a taxi.
+
+32
+00:03:21,430 --> 00:03:22,430
+Charlie Unit 2-5.
+
+33
+00:03:22,450 --> 00:03:24,450
+Heading to the intersection.
+
+34
+00:03:24,480 --> 00:03:26,480
+Eng Street, Trigo Street and Cacilnas Street.
+
+35
+00:03:26,500 --> 00:03:29,400
+Bravo 6, Lychee Street intersection.
+
+36
+00:03:29,420 --> 00:03:31,420
+Delta 9-2, standby in
+the middle of do Sul Street.
+
+37
+00:03:36,450 --> 00:03:38,650
+With Skyeye and Spice
+Girl, they can't hide.
+
+38
+00:03:40,470 --> 00:03:42,470
+Block Rua do Campo route.
+
+39
+00:03:42,500 --> 00:03:44,400
+Access Seac Tunnel and Cemiterio Street,
+
+40
+00:03:44,420 --> 00:03:46,420
+block everything. Madam.
+
+41
+00:03:46,440 --> 00:03:49,440
+Spice Girl rejects this plan.
+All units proceed to Cacilhas Street.
+
+42
+00:03:49,470 --> 00:03:51,470
+Prepare to intercept. Do not intercept.
+
+43
+00:03:51,490 --> 00:03:53,490
+Du Ping,
+
+44
+00:03:53,520 --> 00:03:55,420
+disable analysis and autonomous direction.
+
+45
+00:03:55,440 --> 00:03:57,440
+Yes, Madam.
+
+46
+00:03:57,460 --> 00:03:58,460
+Alpha Team 1 and 2,
+
+47
+00:03:58,490 --> 00:04:01,490
+eastward to Dom Belchior Cameiro Street.
+Unit 3, southeast to Tomas Vieira Street.
+
+48
+00:04:01,510 --> 00:04:04,410
+Unit 4, north to Artilheiros Street.
+
+49
+00:04:04,440 --> 00:04:06,440
+Surround them on Repouso Street.
+
+50
+00:04:06,460 --> 00:04:07,460
+Yes, Madam.
+
+51
+00:04:07,480 --> 00:04:08,480
+All units, disperse.
+
+52
+00:04:08,510 --> 00:04:10,510
+Ready sir. Ready sir.
+
+53
+00:04:32,430 --> 00:04:34,430
+Wu Yaolei.
+
+54
+00:04:34,460 --> 00:04:36,460
+Wu Yaolei, what are you doing?
+
+55
+00:04:37,480 --> 00:04:39,480
+Capture them! Come on, respond!
+
+56
+00:04:39,500 --> 00:04:41,506
+We're on Repouso Street. No
+suspicious vehicle in sight.
+
+57
+00:04:41,530 --> 00:04:43,530
+What do you mean not in sight?
+
+58
+00:04:43,550 --> 00:04:45,550
+It's visible there, are you blind?
+
+59
+00:04:52,480 --> 00:04:54,480
+Madam.
+
+60
+00:04:54,500 --> 00:04:56,500
+Can Madam see me?
+
+61
+00:04:57,420 --> 00:04:59,420
+Ma'am.
+
+62
+00:05:05,450 --> 00:05:07,450
+How are we now, sir?
+
+63
+00:05:10,470 --> 00:05:12,470
+Pawn's out.
+
+64
+00:05:14,400 --> 00:05:16,400
+Night, Knight-Rider.
+
+65
+00:05:25,420 --> 00:05:31,320
+THE SHADOW'S EDGE
+
+66
+00:05:32,440 --> 00:05:40,440
+translation by broth3rmax
+
+67
+00:06:03,470 --> 00:06:05,470
+Morning, can I help you, sir?
+
+68
+00:06:05,490 --> 00:06:07,490
+Order a cup of latte.
+
+69
+00:06:10,420 --> 00:06:13,420
+Larry, you lazy bum, open the door!
+
+70
+00:06:15,440 --> 00:06:17,440
+What?
+
+71
+00:06:20,460 --> 00:06:22,460
+Police.
+
+72
+00:06:26,490 --> 00:06:28,490
+Sure you don't want to go to the bank?
+Why would I want to go there?
+
+73
+00:06:28,510 --> 00:06:30,516
+A paper with half of
+my signature has been stolen, right?
+
+74
+00:06:30,540 --> 00:06:32,440
+Right?
+
+75
+00:06:32,460 --> 00:06:34,460
+Maybe they won't act
+this quickly.
+
+76
+00:06:34,480 --> 00:06:36,486
+No, they want the other half.
+They need the other half.
+
+77
+00:06:36,510 --> 00:06:38,510
+Without the other half,
+all this becomes useless.
+
+78
+00:06:38,530 --> 00:06:40,430
+What exactly is cryptocurrency?
+
+79
+00:06:40,460 --> 00:06:42,460
+Money, sir. More than
+500 million Hong Kong dollars.
+
+80
+00:06:42,480 --> 00:06:44,480
+There's no answer at JH
+Digital Asset Management.
+
+81
+00:06:45,400 --> 00:06:47,400
+SAFE. STRONG. SOLUTION
+
+82
+00:06:49,430 --> 00:06:50,930
+They might be
+working on it now.
+
+83
+00:06:50,950 --> 00:06:52,450
+Hello, Aoxing Tower security office.
+
+84
+00:06:52,480 --> 00:06:54,480
+This is the Judicial Police Command Center.
+
+85
+00:06:54,500 --> 00:06:56,400
+We suspect someone on the 4th floor 
+
+86
+00:06:56,420 --> 00:06:59,420
+at JH Digital Asset Management
+is involved in sensitive data theft.
+
+87
+00:06:59,450 --> 00:07:02,450
+Please don't act alone.
+When will the police arrive?
+
+88
+00:07:02,470 --> 00:07:04,470
+What's your estimate? 5 minutes.
+
+89
+00:07:04,500 --> 00:07:06,500
+Understood.
+
+90
+00:07:07,420 --> 00:07:09,420
+3 minutes. Okay, 3 minutes.
+
+91
+00:07:19,440 --> 00:07:21,440
+Found it.
+
+92
+00:07:21,490 --> 00:07:23,490
+Whoa... there are a lot
+of files. Copy everything.
+
+93
+00:07:23,520 --> 00:07:25,420
+Can't you transfer the money yourself?
+
+94
+00:07:25,440 --> 00:07:29,440
+The password for the crypto account consists
+of 12 random English words.
+
+95
+00:07:29,460 --> 00:07:32,460
+It's 2048 to the power of 12.
+
+96
+00:07:32,490 --> 00:07:34,490
+That's the algorithm behind
+it. You don't know anything.
+
+97
+00:07:34,510 --> 00:07:36,510
+Stay put.
+
+98
+00:07:36,540 --> 00:07:38,540
+Impossible to remember.
+
+99
+00:07:39,460 --> 00:07:41,460
+2 minutes.
+
+100
+00:07:47,480 --> 00:07:49,480
+LOADING DATA 24%...
+
+101
+00:07:53,410 --> 00:07:55,410
+Xin, what are you
+doing? Just browsing.
+
+102
+00:07:55,430 --> 00:07:56,436
+Don't touch anything else.
+
+103
+00:07:56,460 --> 00:07:58,460
+A lot of VIP clients.
+
+104
+00:08:02,480 --> 00:08:04,480
+Gordon D.
+
+105
+00:08:08,400 --> 00:08:10,400
+What is this? A digital encryption key.
+
+106
+00:08:11,430 --> 00:08:12,430
+That's Duan Zhihong.
+
+107
+00:08:12,450 --> 00:08:13,450
+Who is that?
+
+108
+00:08:13,480 --> 00:08:15,480
+CEO of the largest crypto exchange in Kuala Lumpur.
+
+109
+00:08:15,500 --> 00:08:17,400
+He disappeared with $1.5 billion USD,
+
+110
+00:08:17,420 --> 00:08:19,420
+then was mysteriously
+found dead in Macau.
+
+111
+00:08:19,450 --> 00:08:21,970
+People still think he
+faked his own death.
+
+112
+00:08:22,470 --> 00:08:24,470
+The firewall for this digital key is
+
+113
+00:08:24,500 --> 00:08:26,500
+Level TAQ-LX-5.
+
+114
+00:08:27,520 --> 00:08:29,520
+What does it mean? One level
+less than military-grade.
+
+115
+00:08:29,540 --> 00:08:31,440
+Why is such an important key
+
+116
+00:08:31,470 --> 00:08:33,470
+hidden on a lousy server like
+this? I heard Duan's $1.5 billion
+
+117
+00:08:33,490 --> 00:08:35,490
+is still unaccounted for.
+
+118
+00:08:35,520 --> 00:08:37,420
+That's more than HK$10 billion.
+
+119
+00:08:37,440 --> 00:08:38,440
+Copy everything.
+
+120
+00:08:38,460 --> 00:08:40,460
+We're running out of time, Simon. It won't take long.
+
+121
+00:08:40,490 --> 00:08:42,490
+Xin, let's go.
+
+122
+00:08:42,510 --> 00:08:44,510
+One more minute. No time left.
+
+123
+00:08:44,540 --> 00:08:45,940
+DATA COPYING 56%...
+
+124
+00:09:05,480 --> 00:09:06,480
+DATA COPYING 97%...
+
+125
+00:09:09,410 --> 00:09:10,410
+DATA COPYING 100%
+
+126
+00:09:10,430 --> 00:09:12,430
+Let's go!
+
+127
+00:09:13,460 --> 00:09:14,460
+Duck down!
+
+128
+00:09:14,480 --> 00:09:16,480
+Don't look!
+
+129
+00:09:20,400 --> 00:09:22,400
+Police are at the entrance.
+
+130
+00:09:26,430 --> 00:09:28,429
+Don't panic.
+
+131
+00:09:28,430 --> 00:09:30,430
+What's happening upstairs?
+
+132
+00:09:35,450 --> 00:09:36,450
+Sorry.
+
+133
+00:09:36,480 --> 00:09:38,480
+Hi, can I help you? Police.
+
+134
+00:09:41,400 --> 00:09:43,400
+We received a report of a robbery.
+
+135
+00:09:43,420 --> 00:09:45,540
+The suspects just left. 4 men, early 20s.
+
+136
+00:09:48,450 --> 00:09:50,450
+Go, Bishop.
+
+137
+00:09:51,470 --> 00:09:53,470
+Quick, chase them!
+
+138
+00:09:53,500 --> 00:09:55,500
+Song, block them!
+
+139
+00:09:57,420 --> 00:09:59,420
+Don't run!
+
+140
+00:09:59,440 --> 00:10:00,440
+Alpha 3 has arrived.
+
+141
+00:10:00,470 --> 00:10:02,470
+Bravo-4 is on site.
+
+142
+00:10:04,490 --> 00:10:06,490
+Bravo 1 and 2, watch the lobby.
+
+143
+00:10:06,520 --> 00:10:08,520
+Bravo 3 and 4, block the exits.
+
+144
+00:10:08,540 --> 00:10:10,540
+Bravo-3 on site. Qiuguo,
+assist Forensics on the 4th floor.
+
+145
+00:10:10,560 --> 00:10:12,560
+Yes, sir.
+
+146
+00:10:23,490 --> 00:10:25,490
+Stop!
+
+147
+00:10:55,410 --> 00:10:57,410
+Don't move!
+
+148
+00:10:58,440 --> 00:10:59,440
+Don't move! Don't move!
+
+149
+00:10:59,460 --> 00:11:01,460
+Drop the gun! Don't move!
+
+150
+00:11:01,480 --> 00:11:02,480
+Stop!
+
+151
+00:11:02,510 --> 00:11:04,410
+Don't move, drop the
+gun, don't do anything stupid!
+
+152
+00:11:04,430 --> 00:11:06,430
+Ignore me, do your job.
+
+153
+00:11:09,460 --> 00:11:11,460
+Captain Wu is being
+held hostage. They're heading up.
+
+154
+00:11:13,480 --> 00:11:14,480
+Wynn Macau.
+
+155
+00:11:14,500 --> 00:11:16,500
+The kids might...
+
+156
+00:11:16,530 --> 00:11:18,430
+Wynn, move quickly.
+
+157
+00:11:18,450 --> 00:11:20,450
+What are you waiting for?
+
+158
+00:11:44,480 --> 00:11:46,480
+Captain.
+
+159
+00:11:50,400 --> 00:11:52,400
+Wu Yaolei.
+
+160
+00:12:16,420 --> 00:12:18,420
+Fake.
+
+161
+00:12:30,450 --> 00:12:32,450
+Help me. Pull!
+
+162
+00:12:34,450 --> 00:12:36,450
+They're using parachutes.
+
+163
+00:12:37,470 --> 00:12:39,470
+Captain.
+
+164
+00:12:41,400 --> 00:12:43,400
+Send reinforcements to Wynn Macau.
+
+165
+00:12:43,420 --> 00:12:44,420
+Go!
+
+166
+00:12:44,440 --> 00:12:46,480
+Captain, the elevator's been hacked.
+How did you get down?
+
+167
+00:12:47,470 --> 00:12:49,470
+I jumped. Jumped?
+
+168
+00:12:50,490 --> 00:12:52,490
+Stay there!
+
+169
+00:13:08,420 --> 00:13:10,420
+Wynn Macau, rooftop.
+You really jumped?
+
+170
+00:13:10,440 --> 00:13:11,440
+Attention, all units.
+
+171
+00:13:11,460 --> 00:13:13,460
+Send assistance to the new target location.
+
+172
+00:13:13,490 --> 00:13:15,490
+Wynn Macau. Assist in the capture.
+
+173
+00:13:15,510 --> 00:13:17,516
+I've contacted their head of
+security, Mathew Tab.
+
+174
+00:13:17,540 --> 00:13:18,540
+Sit down.
+
+175
+00:13:18,560 --> 00:13:20,560
+They're heading to the
+rooftop, call for help!
+
+176
+00:13:20,580 --> 00:13:24,280
+Call for help!
+
+177
+00:13:24,480 --> 00:13:26,960
+They must have a Plan-B,
+warn Tab to be cautious.
+
+178
+00:13:31,410 --> 00:13:32,410
+It's not that simple.
+
+179
+00:13:32,430 --> 00:13:34,430
+What?
+
+180
+00:13:53,460 --> 00:13:54,460
+What do you mean?
+
+181
+00:13:54,480 --> 00:13:57,480
+How could they disappear
+just like that from all the cameras?
+
+182
+00:13:57,500 --> 00:13:59,500
+That's what they do.
+
+183
+00:14:14,430 --> 00:14:16,430
+You're all tangled up.
+
+184
+00:14:16,450 --> 00:14:18,450
+Where are they? They're at the hotel.
+
+185
+00:14:22,480 --> 00:14:24,480
+Xin, the police have arrived. So quickly.
+
+186
+00:14:24,500 --> 00:14:26,500
+The Fort route is dead. Take the Ster route.
+
+187
+00:14:26,520 --> 00:14:29,420
+Why did you let them run?
+They didn't run, they flew.
+
+188
+00:14:32,450 --> 00:14:34,450
+15 seconds. Ready for
+Ster. I need the location.
+
+189
+00:14:34,470 --> 00:14:36,470
+Searching.
+
+190
+00:14:36,500 --> 00:14:38,500
+Find them, quickly!
+
+191
+00:14:42,420 --> 00:14:44,420
+What happened? Not us.
+
+192
+00:14:47,440 --> 00:14:50,440
+Why are all my cameras? The Wynn CCTV
+was remotely disabled.
+
+193
+00:14:52,470 --> 00:14:54,470
+Everyone, move quickly. Spread out, stay alert.
+
+194
+00:14:54,490 --> 00:14:56,930
+As long as they're here,
+they can't hide their faces.
+
+195
+00:15:06,420 --> 00:15:08,420
+Everyone,
+
+196
+00:15:08,440 --> 00:15:09,840
+activate your body cameras.
+
+197
+00:15:09,860 --> 00:15:11,860
+Focus on any faces you encounter.
+
+198
+00:15:14,490 --> 00:15:16,490
+Du Ping, manually operate S.P.A.I.S.
+
+199
+00:15:16,510 --> 00:15:18,516
+Run facial recognition on all
+images captured by body cameras.
+
+200
+00:15:18,540 --> 00:15:20,540
+Okay. Find them without guest entry records,
+
+201
+00:15:20,560 --> 00:15:22,560
+starting with area staff.
+
+202
+00:15:22,580 --> 00:15:24,480
+Stay off camera.
+
+203
+00:15:24,510 --> 00:15:26,510
+Or we're screwed.
+
+204
+00:15:28,430 --> 00:15:29,430
+I'm in.
+
+205
+00:15:29,460 --> 00:15:30,460
+Tell me where you are,
+
+206
+00:15:30,480 --> 00:15:32,480
+I'll handle it from here.
+
+207
+00:15:32,500 --> 00:15:34,500
+The king is moving.
+
+208
+00:15:45,430 --> 00:15:47,430
+Turn around.
+
+209
+00:15:51,450 --> 00:15:53,450
+Locker room, change clothes.
+
+210
+00:15:55,480 --> 00:15:56,480
+Excuse me, sir.
+
+211
+00:15:56,500 --> 00:15:58,500
+Sir!
+
+212
+00:16:13,420 --> 00:16:16,420
+Alpha 2 took the MCS1 elevator to the Ground Floor.
+
+213
+00:16:16,450 --> 00:16:17,450
+Ray. Turn around.
+
+214
+00:16:17,470 --> 00:16:19,470
+Move the cart to 10 o'clock.
+
+215
+00:16:27,400 --> 00:16:29,400
+Attention all units. The
+suspects might change their disguise.
+
+216
+00:16:29,420 --> 00:16:31,420
+Stay focused, keep searching.
+
+217
+00:16:37,440 --> 00:16:39,440
+Height 175cm, slightly long hair,
+
+218
+00:16:39,470 --> 00:16:40,870
+black and white hooded
+baseball jacket,
+
+219
+00:16:40,890 --> 00:16:43,396
+dark camouflage cargo pants
+backpack. He's headed to the cafeteria.
+
+220
+00:16:43,420 --> 00:16:45,420
+Xin, you're exposed.
+
+221
+00:16:45,440 --> 00:16:47,440
+Feng, cover that face. Help Xin.
+
+222
+00:16:48,460 --> 00:16:50,460
+Yes, sir.
+
+223
+00:16:59,490 --> 00:17:01,490
+Song, the man who just passed.
+
+224
+00:17:02,410 --> 00:17:03,410
+Now.
+
+225
+00:17:03,440 --> 00:17:05,440
+He's not on the guest entry list. What?
+
+226
+00:17:05,460 --> 00:17:07,460
+There. That's him!
+
+227
+00:17:07,480 --> 00:17:08,480
+I'll handle this one.
+
+228
+00:17:08,510 --> 00:17:10,510
+Song, chase the other guy.
+
+229
+00:17:11,430 --> 00:17:13,430
+Sorry. Song, clean the lens.
+
+230
+00:17:17,460 --> 00:17:19,460
+Pursue that one. Go!
+
+231
+00:17:19,480 --> 00:17:21,480
+Hurry!
+
+232
+00:17:38,400 --> 00:17:40,400
+[MAIN KITCHEN]
+
+233
+00:17:45,430 --> 00:17:47,430
+Sorry.
+
+234
+00:17:48,450 --> 00:17:50,450
+Where is he?
+
+235
+00:17:55,480 --> 00:17:58,480
+The Wynn Prosperity Tree lobby is crowded.
+
+236
+00:17:58,500 --> 00:18:00,500
+WYNN PROSPERITY TREE
+
+237
+00:18:04,420 --> 00:18:06,420
+I thought the show was after 12.
+
+238
+00:18:06,450 --> 00:18:09,450
+If there's a system upgrade,
+they test the show in the morning.
+
+239
+00:18:10,470 --> 00:18:12,470
+Find them, spread out!
+
+240
+00:18:12,500 --> 00:18:14,500
+Be alert, stay focused.
+
+241
+00:18:17,420 --> 00:18:19,420
+There.
+
+242
+00:18:22,440 --> 00:18:25,440
+They're disguising as police.
+They're posing as police!
+
+243
+00:18:41,470 --> 00:18:43,470
+Checkmate.
+
+244
+00:18:44,490 --> 00:18:45,490
+Damn it! Bastard!
+
+245
+00:18:45,520 --> 00:18:47,520
+Bastard!
+
+246
+00:18:47,540 --> 00:18:49,540
+Everything's gone. 500 million!
+
+247
+00:18:49,560 --> 00:18:51,560
+Not a penny left!
+
+248
+00:18:51,590 --> 00:18:54,490
+Crypto is impossible to trace!
+
+249
+00:18:54,510 --> 00:18:56,510
+You useless cops!
+
+250
+00:19:05,440 --> 00:19:07,440
+They hacked us and
+infiltrated the CCTV system.
+
+251
+00:19:07,460 --> 00:19:09,460
+So... Without Skyeye,
+
+252
+00:19:09,480 --> 00:19:11,486
+we can't tackle
+crime anymore, right?
+
+253
+00:19:11,510 --> 00:19:13,410
+Before we had all this technology,
+
+254
+00:19:13,430 --> 00:19:15,430
+how did the police do their job?
+
+255
+00:19:16,460 --> 00:19:18,460
+It's my fault.
+
+256
+00:19:18,480 --> 00:19:20,480
+Next time I'll catch
+them. Even if there's a next time,
+
+257
+00:19:20,500 --> 00:19:22,406
+they'll likely outsmart
+our every move.
+
+258
+00:19:22,430 --> 00:19:23,430
+Then tell me...
+
+259
+00:19:23,450 --> 00:19:25,456
+what are we supposed to do? If
+they stop now,
+
+260
+00:19:25,480 --> 00:19:27,480
+what's our breakthrough?
+
+261
+00:19:28,400 --> 00:19:31,400
+Sorry, sir. What's the status
+
+262
+00:19:31,420 --> 00:19:32,420
+of the cyber division?
+
+263
+00:19:32,450 --> 00:19:34,450
+[Don't be discouraged, it's not your fault they got away]
+We've set intrusion points and code bugs,
+
+264
+00:19:34,470 --> 00:19:36,470
+but there's no progress
+on backtracking.
+
+265
+00:19:39,400 --> 00:19:41,400
+To catch a cunning fox,
+
+266
+00:19:41,420 --> 00:19:43,420
+we need an experienced hunter.
+
+267
+00:19:46,440 --> 00:19:48,440
+Are you suggesting we call Wong again?
+
+268
+00:19:53,470 --> 00:19:55,470
+I know he was your old boss.
+
+269
+00:19:55,490 --> 00:19:57,490
+But now it's the era of A.I. tracking.
+
+270
+00:19:57,520 --> 00:19:59,520
+And they've already skinned its weaknesses.
+
+271
+00:20:00,440 --> 00:20:03,440
+There are many defects in
+the network and CCTV equipment,
+
+272
+00:20:03,460 --> 00:20:06,466
+but S.P.A.I.S. is flawless. Stop
+S.P.A.I.S., learn from real operations.
+
+273
+00:20:06,490 --> 00:20:08,490
+Do you let your phone
+take charge of your tasks?
+
+274
+00:20:08,510 --> 00:20:10,510
+It's not about bringing a fossil!
+
+275
+00:20:10,540 --> 00:20:12,540
+It could improve the police's image. Captain.
+
+276
+00:20:13,460 --> 00:20:16,460
+I don't care if we use
+a fossil or a Spice Girl.
+
+277
+00:20:16,480 --> 00:20:18,480
+Find them. Capture them.
+
+278
+00:20:18,510 --> 00:20:20,510
+Do your job.
+
+279
+00:20:23,430 --> 00:20:25,430
+Oh my, Guoguo,
+
+280
+00:20:25,460 --> 00:20:27,460
+have you ever seen Wong's file?
+
+281
+00:20:28,480 --> 00:20:29,480
+He's amazing.
+
+282
+00:20:29,500 --> 00:20:31,400
+A lot of praise.
+
+283
+00:20:32,430 --> 00:20:34,430
+A champion of any model of Special Operations.
+
+284
+00:20:34,450 --> 00:20:36,450
+A champion in hand-to-hand
+combat within the police.
+
+285
+00:20:36,480 --> 00:20:38,480
+5 years in a row!
+
+286
+00:20:38,500 --> 00:20:40,500
+Skilled in firearms, surveillance,
+
+287
+00:20:40,520 --> 00:20:42,420
+infiltration, intelligence gathering.
+
+288
+00:20:42,450 --> 00:20:44,450
+He went undercover in drug cartels
+
+289
+00:20:44,470 --> 00:20:47,470
+and human organ trafficking syndicates.
+
+290
+00:20:47,500 --> 00:20:49,500
+Controlled, straightforward actions.
+
+291
+00:20:49,520 --> 00:20:51,420
+Expert at blending into his surroundings.
+
+292
+00:20:51,440 --> 00:20:53,440
+Hobbies...
+
+293
+00:20:53,470 --> 00:20:55,470
+Creating code calls.
+
+294
+00:20:55,490 --> 00:20:58,490
+It states here that one
+major mistake in his career is
+
+295
+00:20:58,520 --> 00:21:01,420
+a personal mistake that resulted in
+
+296
+00:21:01,440 --> 00:21:04,440
+his partner's death.
+
+297
+00:21:16,460 --> 00:21:18,460
+Write which dog
+pees or poops first.
+
+298
+00:21:18,490 --> 00:21:20,490
+Is it really him?
+
+299
+00:21:23,410 --> 00:21:24,410
+Hi.
+
+300
+00:21:24,440 --> 00:21:26,440
+Have you found it? Not yet.
+
+301
+00:21:27,460 --> 00:21:30,460
+Everyone else in
+the field is handling big cases
+
+302
+00:21:30,480 --> 00:21:32,480
+and I don’t know what I’m doing.
+
+303
+00:21:33,410 --> 00:21:35,410
+Observing someone who’s
+already retired? Patience.
+
+304
+00:21:35,430 --> 00:21:37,430
+Maybe the captain is watching you.
+
+305
+00:21:37,460 --> 00:21:39,460
+Maybe we're not ready for field duty.
+
+306
+00:21:39,480 --> 00:21:41,480
+I’ll get back to you later.
+
+307
+00:22:15,400 --> 00:22:17,400
+Practice observing an old guy like me?
+
+308
+00:22:19,430 --> 00:22:21,430
+Try repeating?
+
+309
+00:22:24,450 --> 00:22:26,450
+Why are you following me?
+
+310
+00:22:29,480 --> 00:22:31,480
+You’ve got the wrong person.
+
+311
+00:22:33,400 --> 00:22:35,400
+You don’t recognize me?
+
+312
+00:22:36,420 --> 00:22:38,420
+No.
+
+313
+00:22:39,450 --> 00:22:41,450
+Do you need something?
+
+314
+00:22:42,470 --> 00:22:45,470
+You’re not following me with your jacket inside out?
+
+315
+00:22:47,500 --> 00:22:49,500
+Can you sit somewhere else?
+
+316
+00:22:58,420 --> 00:23:00,420
+Sorry. It’s fine.
+
+317
+00:23:07,440 --> 00:23:10,440
+At 14:23, you reached your first target,
+
+318
+00:23:10,470 --> 00:23:12,470
+the pet shop.
+
+319
+00:23:12,490 --> 00:23:15,490
+So far, you’ve
+been tailing me for 4 hours 17 minutes.
+
+320
+00:23:16,420 --> 00:23:18,420
+You changed your clothes 3 times,
+
+321
+00:23:19,440 --> 00:23:21,440
+and stopped 9 times to take notes.
+
+322
+00:23:21,460 --> 00:23:24,460
+One of your colleagues helped you on the bus.
+
+323
+00:23:25,490 --> 00:23:27,490
+Just looking around. Sorry.
+
+324
+00:23:27,510 --> 00:23:29,510
+Isn’t it true, He Qiuguo?
+
+325
+00:23:36,440 --> 00:23:39,440
+That expression accidentally
+reveals you.
+
+326
+00:23:42,460 --> 00:23:44,460
+You remember me.
+
+327
+00:23:44,480 --> 00:23:47,480
+Uncle Wong. We haven’t
+met since I was 8 years old.
+
+328
+00:23:49,410 --> 00:23:51,410
+I heard you joined the unit
+
+329
+00:23:51,430 --> 00:23:53,430
+and inherited your father's badge number.
+
+330
+00:23:53,460 --> 00:23:55,460
+He must be proud.
+
+331
+00:23:57,480 --> 00:24:00,480
+How did you know I was at the pet store earlier?
+
+332
+00:24:00,500 --> 00:24:02,500
+I had some clues.
+
+333
+00:24:03,430 --> 00:24:04,430
+First,
+
+334
+00:24:04,450 --> 00:24:06,450
+never throw away your notes.
+
+335
+00:24:06,480 --> 00:24:09,480
+Second, when walking the dog, leaving work, and taking the bus,
+
+336
+00:24:09,500 --> 00:24:10,500
+none of it was accurate.
+
+337
+00:24:10,520 --> 00:24:12,520
+The sequence of the dogs peeing and pooping was all mixed up.
+
+338
+00:24:12,550 --> 00:24:14,450
+Which was the sixth dog to poop?
+
+339
+00:24:14,470 --> 00:24:16,470
+Al Paca-paca, the poodle.
+
+340
+00:24:22,400 --> 00:24:24,400
+Maybe I was mistaken if I didn't pick it up.
+
+341
+00:24:24,420 --> 00:24:26,420
+It confuses my memory if I pick up that note.
+
+342
+00:24:26,440 --> 00:24:28,440
+Not bad.
+
+343
+00:24:28,470 --> 00:24:30,470
+You said my colleague was on the bus.
+
+344
+00:24:30,490 --> 00:24:32,490
+Why did you say that? Oh, I get it.
+
+345
+00:24:32,520 --> 00:24:34,520
+This is not a drill.
+
+346
+00:24:34,540 --> 00:24:36,440
+You're checking
+
+347
+00:24:36,460 --> 00:24:38,460
+if I'm still sharp.
+
+348
+00:24:43,490 --> 00:24:47,490
+The two of you followed me for 4 hours with such skill.
+
+349
+00:24:47,510 --> 00:24:49,510
+What made you confident?
+
+350
+00:24:52,440 --> 00:24:54,440
+MACAU JUDICIAL POLICE
+
+351
+00:25:07,480 --> 00:25:08,880
+Long time no see, Officer Wong.
+
+352
+00:25:08,910 --> 00:25:10,910
+This is Inspector Wu Yaolei.
+
+353
+00:25:13,430 --> 00:25:15,430
+Let me handle it. No.
+
+354
+00:25:20,460 --> 00:25:23,460
+You call yourself the police? No wonder I felt that old man touching me.
+
+355
+00:25:23,480 --> 00:25:25,480
+You seem proud.
+
+356
+00:25:26,400 --> 00:25:28,400
+So a work partner
+
+357
+00:25:29,430 --> 00:25:31,430
+who died on duty...
+
+358
+00:25:31,450 --> 00:25:33,450
+Was that your father?
+
+359
+00:25:35,480 --> 00:25:37,480
+Step back.
+
+360
+00:25:38,400 --> 00:25:40,400
+This is the footage we collected at the scene.
+
+361
+00:25:40,420 --> 00:25:43,420
+This video is Wynn's recording
+before the hackers turned it off.
+
+362
+00:25:52,450 --> 00:25:54,450
+Please play the last 15 seconds.
+
+363
+00:26:02,470 --> 00:26:04,470
+Play it again.
+
+364
+00:26:13,400 --> 00:26:15,400
+Once more.
+
+365
+00:26:30,420 --> 00:26:32,420
+Stop!
+
+366
+00:26:50,440 --> 00:26:53,440
+How can you see them?
+They peeked at the camera when entering.
+
+367
+00:26:54,470 --> 00:26:56,470
+They must have done
+reconnaissance beforehand.
+
+368
+00:26:56,490 --> 00:26:58,496
+and knew the camera locations.
+So, why did they peek?
+
+369
+00:26:58,520 --> 00:27:00,520
+To check if the camera was still on.
+
+370
+00:27:02,440 --> 00:27:04,560
+Once the camera was off,
+they changed their disguise.
+
+371
+00:27:06,460 --> 00:27:08,460
+Isn't that right?
+
+372
+00:27:18,410 --> 00:27:20,410
+Xiwang.
+
+373
+00:27:27,440 --> 00:27:29,440
+Is the old man upset about the change in plan?
+
+374
+00:27:30,460 --> 00:27:32,460
+What do you think?
+
+375
+00:27:33,480 --> 00:27:35,480
+Go calm him down.
+
+376
+00:27:36,410 --> 00:27:38,410
+Adoptive dad... we're
+all back safely.
+
+377
+00:27:38,430 --> 00:27:40,430
+Tense day, huh?
+
+378
+00:27:40,460 --> 00:27:42,460
+I can explain.
+
+379
+00:27:42,480 --> 00:27:44,480
+You nearly jeopardized everyone.
+
+380
+00:27:44,500 --> 00:27:46,500
+That wasn't part of the plan.
+
+381
+00:27:48,430 --> 00:27:50,430
+But our mission is done.
+
+382
+00:27:50,450 --> 00:27:52,450
+With a bonus, no less.
+
+383
+00:27:53,480 --> 00:27:55,480
+What bonus?
+
+384
+00:27:55,500 --> 00:27:57,500
+I only see mistakes!
+
+385
+00:27:58,420 --> 00:28:00,540
+All these years,
+I've never been caught on camera.
+
+386
+00:28:01,450 --> 00:28:03,450
+Now I have
+
+387
+00:28:03,470 --> 00:28:06,470
+you useless one!
+It's fine, I'll handle it.
+
+388
+00:28:06,500 --> 00:28:08,500
+You're useless too!
+
+389
+00:28:09,420 --> 00:28:10,420
+Let go.
+
+390
+00:28:10,440 --> 00:28:12,440
+Let us decide this time.
+
+391
+00:28:17,470 --> 00:28:19,470
+Let go?
+
+392
+00:28:26,490 --> 00:28:28,490
+Release it.
+
+393
+00:28:42,420 --> 00:28:44,420
+Could you tell me
+
+394
+00:28:44,440 --> 00:28:47,440
+what I should be afraid of now?
+
+395
+00:28:50,460 --> 00:28:53,460
+Besides, you wouldn't understand.
+
+396
+00:28:56,490 --> 00:28:59,490
+Let me tell you what you should fear.
+
+397
+00:29:08,410 --> 00:29:10,410
+Adoptive father.
+
+398
+00:29:18,440 --> 00:29:20,440
+Adoptive father, this is our fault.
+
+399
+00:29:22,460 --> 00:29:25,460
+For decades, not
+a single photo of me.
+
+400
+00:29:25,480 --> 00:29:27,480
+That changed lilac , and smiles 
+
+401
+00:29:27,510 --> 00:29:29,510
+That changed because of
+you idiots. Don't be mad.
+
+402
+00:29:29,530 --> 00:29:31,430
+That's more than 10 billion HKD.
+
+403
+00:29:31,460 --> 00:29:33,460
+With this This wealth 
+
+404
+00:29:33,480 --> 00:29:36,480
+Silent.
+
+405
+00:29:44,400 --> 00:29:45,400
+That tall man.
+
+406
+00:29:45,430 --> 00:29:47,430
+The lightning rod is changing its clothes.
+
+407
+00:29:47,450 --> 00:29:49,450
+Look at the monitor. Lightning Rod.
+
+408
+00:29:50,480 --> 00:29:52,480
+Remember its features.
+
+409
+00:29:52,500 --> 00:29:54,540
+This person, gritting
+his teeth. Number 2, number 2.
+
+410
+00:29:55,420 --> 00:29:57,420
+Found the one with earrings.
+Yes, that's him.
+
+411
+00:29:57,450 --> 00:29:58,450
+grim.
+
+412
+00:29:58,470 --> 00:30:00,470
+On-screen up again some 
+
+413
+00:30:00,500 --> 00:30:02,500
+Lightning Rod 3
+
+414
+00:30:02,520 --> 00:30:04,520
+is not very clear. I have
+a clearer picture here!
+
+415
+00:30:04,540 --> 00:30:05,540
+Good, very good.
+
+416
+00:30:05,570 --> 00:30:07,570
+Cute Face number 2, wearing a small mustache.
+
+417
+00:30:07,590 --> 00:30:08,796
+Got... I found Cute Face number 3.
+
+418
+00:30:08,820 --> 00:30:11,420
+The one crouching. He changed disguise.
+How many must sop socks). assemble tribe does gale moletrienour.
+
+419
+00:30:17,440 --> 00:30:19,440
+Sir, I think this one
+is... Cute Face number 4.
+
+420
+00:30:21,460 --> 00:30:23,460
+I’ve seen this coat somewhere before.
+
+421
+00:30:25,490 --> 00:30:27,490
+Someone gave shepherded it to him.
+
+422
+00:30:27,510 --> 00:30:29,510
+Everyone listen up! There's one more person.
+
+423
+00:30:29,540 --> 00:30:31,540
+Send everything you
+find to the main screen.
+
+424
+00:30:31,560 --> 00:30:33,560
+Yes, sir.
+
+425
+00:30:50,480 --> 00:30:52,480
+Police. Police.
+
+426
+00:30:52,510 --> 00:30:54,510
+Sorry.
+
+427
+00:31:14,430 --> 00:31:16,430
+Xiwang.
+
+428
+00:31:17,460 --> 00:31:19,460
+You saved my life once.
+
+429
+00:31:22,480 --> 00:31:24,480
+I truly appreciate this life.
+
+430
+00:31:26,400 --> 00:31:28,400
+I don't want
+anything to happen to you.
+
+431
+00:31:31,430 --> 00:31:33,430
+Understood?
+
+432
+00:31:35,450 --> 00:31:37,450
+Understood.
+
+433
+00:31:37,480 --> 00:31:38,480
+We are with inline with you
+
+434
+00:31:38,500 --> 00:31:40,500
+life or death.
+
+435
+00:31:48,420 --> 00:31:50,420
+I don't want to die.
+
+436
+00:31:53,450 --> 00:31:56,450
+I want us all to enjoy our lives.
+
+437
+00:32:01,470 --> 00:32:03,470
+Ms. Sun, the coffee line in the lobby,
+
+438
+00:32:03,500 --> 00:32:05,500
+photographed this image that afternoon.
+
+439
+00:32:05,520 --> 00:32:08,420
+She is very likely the fifth person at Wynn.
+
+440
+00:32:08,440 --> 00:32:10,440
+Do we know her identity?
+
+441
+00:32:11,470 --> 00:32:13,470
+Sorry sir, not yet.
+
+442
+00:32:16,490 --> 00:32:18,490
+At the end of the '80s,
+
+443
+00:32:18,520 --> 00:32:20,520
+there was an international fugitive
+formerly Special Forces
+
+444
+00:32:20,540 --> 00:32:22,540
+known as "The Shadow".
+
+445
+00:32:22,560 --> 00:32:26,460
+He served in the elite assassination squad.
+
+446
+00:32:26,490 --> 00:32:28,490
+During the war, he disguised
+
+447
+00:32:28,510 --> 00:32:30,510
+to infiltrate military and political targets.
+
+448
+00:32:30,540 --> 00:32:32,540
+Victims were killed load intended
+
+449
+00:32:32,560 --> 00:32:34,460
+And he always escaped.
+
+450
+00:32:34,480 --> 00:32:37,280
+Later, flew here to
+seek greater fortune.
+
+451
+00:32:37,410 --> 00:32:39,410
+He planned more than dozens of bank robberies
+and evaded 3 hunters
+
+452
+00:32:39,430 --> 00:32:41,430
+before disappearing without a trace in 1999.
+
+453
+00:32:41,460 --> 00:32:43,460
+This man might be the Shadow.
+
+454
+00:32:44,480 --> 00:32:47,480
+Coming out of retirement.
+
+455
+00:32:47,500 --> 00:32:49,500
+I remember him.
+
+456
+00:32:50,430 --> 00:32:51,430
+What's your next move?
+
+457
+00:32:51,450 --> 00:32:52,456
+This photo isn't sufficient
+for facial recognition.
+
+458
+00:32:52,480 --> 00:32:55,480
+We're planning to add manpower
+for a thorough sweep.
+
+459
+00:32:55,500 --> 00:32:58,400
+Area?
+
+460
+00:32:58,420 --> 00:32:59,420
+We have several images
+of his accomplice's vehicles.
+
+461
+00:32:59,450 --> 00:33:01,450
+All were taken in the Old Town area.
+
+462
+00:33:01,470 --> 00:33:03,470
+That's a large area.
+
+463
+00:33:03,500 --> 00:33:04,500
+I suggest a two-pronged approach.
+
+464
+00:33:04,520 --> 00:33:06,420
+Conduct an open sweep
+for diversion,
+
+465
+00:33:06,440 --> 00:33:08,440
+while sending in secret surveillance teams.
+
+466
+00:33:08,470 --> 00:33:10,470
+Officer Wong.
+
+467
+00:33:10,490 --> 00:33:11,490
+There are no more secret surveillance teams.
+
+468
+00:33:11,520 --> 00:33:13,420
+No more?
+
+469
+00:33:13,440 --> 00:33:14,440
+With today's surveillance network
+and A.I.,
+
+470
+00:33:14,460 --> 00:33:17,460
+traditional secret surveillance teams
+
+471
+00:33:17,490 --> 00:33:19,490
+are almost unnecessary.
+
+472
+00:33:19,510 --> 00:33:21,510
+Small recommendations
+for field monitoring.
+
+473
+00:33:25,440 --> 00:33:28,440
+You should use officers
+who are least conspicuous.
+
+474
+00:33:28,460 --> 00:33:31,460
+Preferably ones not 
+seen by the suspect.
+
+475
+00:33:31,480 --> 00:33:33,600
+Officer Wong, why don't you help us
+form a temporary team?
+
+476
+00:33:40,410 --> 00:33:43,410
+An impromptu secret team
+formed at the last minute
+
+477
+00:33:46,430 --> 00:33:49,430
+won't be as effective
+
+478
+00:33:49,460 --> 00:33:51,460
+as a comprehensive approach.
+
+479
+00:33:51,480 --> 00:33:53,480
+Guoguo. Stay on your course out there.
+
+480
+00:34:02,400 --> 00:34:05,400
+Guoguo. Stay on your path out there.
+
+481
+00:34:05,430 --> 00:34:08,430
+Leave the arrest to us.
+
+482
+00:34:08,450 --> 00:34:09,450
+Remember that.
+
+483
+00:34:09,480 --> 00:34:11,480
+Guguo can show off as much as he likes.
+
+484
+00:34:11,500 --> 00:34:14,400
+I'm just worried that showing off
+might make him arrogant
+
+485
+00:34:14,420 --> 00:34:16,420
+and let them escape again.
+
+486
+00:34:20,450 --> 00:34:22,450
+How can someone so
+small become a police officer?
+
+487
+00:34:22,470 --> 00:34:24,470
+His father was a police officer.
+
+488
+00:34:24,500 --> 00:34:28,400
+Doesn't he know he's just a symbolic child?
+
+489
+00:34:28,420 --> 00:34:30,420
+Not even a smile.
+
+490
+00:34:32,440 --> 00:34:34,440
+What's it to you if I'm a cop?
+
+491
+00:34:34,470 --> 00:34:36,470
+I earned myu Rank our police commonwealth.
+
+492
+00:34:36,490 --> 00:34:38,490
+Rude!
+
+493
+00:34:38,520 --> 00:34:41,420
+Don't forget, it was you idiots
+who let them escape.
+
+494
+00:34:43,440 --> 00:34:45,440
+Come on, I'm the suspect. Arrest me. Come on!
+
+495
+00:34:51,460 --> 00:34:53,460
+the field agent
+
+496
+00:35:13,490 --> 00:35:16,510
+Come on! Arrest him.
+
+497
+00:35:31,440 --> 00:35:34,440
+In a place like the detective unit, people
+might respect you with a small fight.
+
+498
+00:35:34,460 --> 00:35:36,460
+They will protect you out there.
+
+499
+00:35:40,480 --> 00:35:42,480
+In this place, no one believes
+
+500
+00:35:42,510 --> 00:35:44,670
+a woman can be
+the first to breach the door.
+
+501
+00:35:45,430 --> 00:35:47,430
+The first can also get shot.
+
+502
+00:35:47,460 --> 00:35:49,460
+So what?
+
+503
+00:35:49,480 --> 00:35:51,480
+I'm not afraid to die. But
+they don't want you to die.
+
+504
+00:35:52,400 --> 00:35:54,400
+My life isn't their business.
+
+505
+00:35:54,430 --> 00:35:56,430
+They really care
+about the lives of colleagues.
+
+506
+00:35:56,450 --> 00:35:58,450
+No one considers me a colleague.
+
+507
+00:36:04,480 --> 00:36:06,480
+Old friend...
+
+508
+00:36:07,400 --> 00:36:09,400
+Guoguo has grown up.
+
+509
+00:36:10,420 --> 00:36:12,420
+He's just like you.
+
+510
+00:36:13,450 --> 00:36:16,450
+But I know he's not happy with the unit.
+
+511
+00:36:18,470 --> 00:36:20,470
+Someone who gets angry easily
+
+512
+00:36:20,500 --> 00:36:22,500
+can cause himself trouble
+
+513
+00:36:22,520 --> 00:36:24,520
+while on duty in the field.
+
+514
+00:36:24,540 --> 00:36:26,540
+Don't move! Police!
+
+515
+00:36:34,470 --> 00:36:36,470
+Don't worry. I'll take care of him.
+
+516
+00:37:22,420 --> 00:37:23,420
+I will do it.
+
+517
+00:37:23,440 --> 00:37:25,440
+I'll train the undercover team.
+
+518
+00:37:25,460 --> 00:37:27,460
+Let's catch him.
+
+519
+00:37:38,410 --> 00:37:40,410
+How considerate of Captain
+Wu to send so many.
+
+520
+00:37:52,440 --> 00:37:54,440
+Thank you. Goodbye.
+
+521
+00:37:55,460 --> 00:37:57,060
+You look like a policeman.
+
+522
+00:37:58,480 --> 00:38:00,480
+Thank you.
+
+523
+00:38:00,510 --> 00:38:03,410
+We're dealing with an old fox.
+
+524
+00:38:03,430 --> 00:38:05,430
+An ancient thief. That's why
+
+525
+00:38:05,460 --> 00:38:08,460
+I'm going to train you
+to become ancient hunters.
+
+526
+00:38:08,480 --> 00:38:10,480
+Let's go.
+
+527
+00:38:10,500 --> 00:38:11,500
+During surveillance,
+
+528
+00:38:11,530 --> 00:38:13,530
+develop the instinct
+to observe and remember.
+
+529
+00:38:14,450 --> 00:38:16,450
+A glance is all you get.
+
+530
+00:38:16,480 --> 00:38:17,480
+Focus on key points.
+
+531
+00:38:17,500 --> 00:38:20,400
+Remember distinctive and permanent features.
+
+532
+00:38:21,420 --> 00:38:23,420
+I'm holding my hip.
+
+533
+00:38:23,450 --> 00:38:25,450
+Which two fingers are in my belt?
+
+534
+00:38:25,470 --> 00:38:27,470
+Left index. Right middle finger.
+
+535
+00:38:35,400 --> 00:38:37,400
+One surveillance team is an entity.
+
+536
+00:38:37,420 --> 00:38:40,420
+It needs every member
+
+537
+00:38:40,440 --> 00:38:42,440
+to complete one mission.
+
+538
+00:38:42,470 --> 00:38:44,470
+Let's move out.
+
+539
+00:38:45,490 --> 00:38:47,490
+Guoguo.
+
+540
+00:38:49,420 --> 00:38:51,420
+Come in.
+
+541
+00:38:52,440 --> 00:38:55,440
+Starting today, you must sop up into this city.
+
+542
+00:38:55,460 --> 00:38:57,460
+So theory becomes defaulted to action.
+
+543
+00:38:57,490 --> 00:38:59,490
+Doghead calls inline Animal Paradise.
+
+544
+00:38:59,510 --> 00:39:00,510
+Officer Wong,
+
+545
+00:39:00,540 --> 00:39:02,540
+what did you say? Doghead.
+
+546
+00:39:02,560 --> 00:39:04,560
+ Econ accord....Hath Arth. That mentions.
+
+547
+00:39:04,580 --> 00:39:06,480
+Unit Amity on location.
+
+548
+00:39:06,510 --> 00:39:07,510
+MONITORING DAY 01
+
+549
+00:39:07,530 --> 00:39:08,930
+I'll give alias you pipeline.
+
+550
+00:39:08,960 --> 00:39:10,960
+Liu, you're Al Paca-paca.
+
+551
+00:39:10,980 --> 00:39:12,980
+Can I ask for another name?
+
+552
+00:39:13,400 --> 00:39:15,400
+I'll shorten it. Alpaca.
+
+553
+00:39:16,430 --> 00:39:17,430
+Alright.
+
+554
+00:39:17,450 --> 00:39:18,450
+Wanwan... you're Tofu.
+
+555
+00:39:18,480 --> 00:39:20,480
+Yang Zhiwei... Rice Noodles.
+
+556
+00:39:20,500 --> 00:39:21,500
+Ting... Pudding.
+
+557
+00:39:21,520 --> 00:39:23,420
+Sun Xu... Potsticker.
+
+558
+00:39:23,450 --> 00:39:25,450
+Liao Qihang... Eggy.
+
+559
+00:39:25,470 --> 00:39:27,470
+Qiao Weidong... Lucky.
+
+560
+00:39:27,500 --> 00:39:28,500
+Song Keyu...
+
+561
+00:39:28,520 --> 00:39:30,520
+Fat Bun.
+
+562
+00:39:32,440 --> 00:39:34,446
+Isn't that teasing on body
+shape? That's local specialty.
+
+563
+00:39:34,470 --> 00:39:36,470
+This is the food squad.
+
+564
+00:39:36,490 --> 00:39:38,490
+Better than my old unit.
+
+565
+00:39:38,520 --> 00:39:39,520
+He Qiuguo...
+
+566
+00:39:39,540 --> 00:39:41,440
+Little Flower Pinky.
+
+567
+00:39:41,460 --> 00:39:43,460
+Can I change it? Remove the "Little."
+
+568
+00:39:44,490 --> 00:39:46,490
+Then also remove "Flower."
+
+569
+00:39:53,410 --> 00:39:55,410
+Be patient.
+
+570
+00:39:55,440 --> 00:39:58,440
+You are my secret weapon.
+It's like I trust you.
+
+571
+00:40:02,460 --> 00:40:03,460
+It's okay.
+
+572
+00:40:03,480 --> 00:40:05,480
+I'm used to being on the bench.
+
+573
+00:40:05,510 --> 00:40:07,510
+Boss, how much is this?
+
+574
+00:40:09,430 --> 00:40:12,110
+Where did you get this? Not your
+business. Pay him and send him away.
+
+575
+00:40:15,460 --> 00:40:16,460
+Hey...
+
+576
+00:40:16,480 --> 00:40:18,480
+Don't stare at them like they're suspects.
+
+577
+00:40:21,400 --> 00:40:23,400
+Pull over.
+
+578
+00:40:36,430 --> 00:40:38,430
+Are you really here?
+
+579
+00:40:38,450 --> 00:40:40,450
+You've been to the same place
+three times
+
+580
+00:40:40,480 --> 00:40:43,480
+wearing the same clothes using the
+same hand and way to drink.
+
+581
+00:40:43,500 --> 00:40:45,400
+Your drink
+
+582
+00:40:45,420 --> 00:40:48,420
+is always the same amount. I'm
+worried you'll need to pee.
+
+583
+00:40:48,450 --> 00:40:50,450
+Dehydration can also kill you.
+
+584
+00:40:50,470 --> 00:40:52,470
+Drink.
+
+585
+00:41:16,400 --> 00:41:17,400
+SURVEILLANCE DAY 03
+
+586
+00:41:17,420 --> 00:41:18,420
+SURVEILLANCE DAY 12
+
+587
+00:41:22,440 --> 00:41:24,440
+There's 10 billion at stake.
+
+588
+00:41:24,470 --> 00:41:26,910
+Once we get it,
+we're set for life.
+
+589
+00:41:27,490 --> 00:41:29,490
+It's just this once.
+
+590
+00:41:29,520 --> 00:41:31,520
+That's what you all think, isn't it?
+
+591
+00:41:33,440 --> 00:41:35,440
+Money isn't everything.
+
+592
+00:41:35,460 --> 00:41:37,460
+Freedom is everything.
+
+593
+00:41:37,490 --> 00:41:39,490
+Different times,
+
+594
+00:41:39,510 --> 00:41:41,510
+different games.
+
+595
+00:41:46,440 --> 00:41:48,440
+If I let you plan
+
+596
+00:41:48,460 --> 00:41:50,460
+the next mission...
+
+597
+00:41:50,480 --> 00:41:52,480
+Do you understand what you're doing?
+
+598
+00:42:09,410 --> 00:42:11,410
+Simon!
+
+599
+00:42:11,430 --> 00:42:13,430
+Dad!
+
+600
+00:42:15,460 --> 00:42:18,460
+Dad! Xiwang!
+
+601
+00:42:19,480 --> 00:42:21,480
+You've grown up. Come here, come here.
+
+602
+00:42:25,400 --> 00:42:27,400
+Thank you, Dad.
+
+603
+00:42:28,430 --> 00:42:30,430
+Dad will be going away for a while.
+
+604
+00:42:30,450 --> 00:42:32,450
+Take care of your siblings.
+
+605
+00:42:35,480 --> 00:42:37,480
+I'll come back to you all.
+
+606
+00:42:43,400 --> 00:42:45,400
+Duan holds crypto
+worth 1.5 billion USD.
+
+607
+00:42:45,420 --> 00:42:47,420
+The server location has been found.
+
+608
+00:42:48,450 --> 00:42:52,450
+We've got the decryption key,
+but the digital vault is hard to access.
+
+609
+00:42:52,470 --> 00:42:54,950
+Simon is hiding in the orphanage,
+making plans now.
+
+610
+00:42:58,400 --> 00:43:00,400
+A good place to hide.
+
+611
+00:43:00,420 --> 00:43:02,420
+It holds a lot of memories.
+
+612
+00:43:03,440 --> 00:43:05,440
+I know you're all
+tired, but stay focused.
+
+613
+00:43:19,470 --> 00:43:21,470
+Don't want coffee? Go buy some.
+
+614
+00:43:21,490 --> 00:43:23,490
+Do I look tired to you?
+
+615
+00:43:25,420 --> 00:43:27,420
+Have you ever wondered
+
+616
+00:43:27,440 --> 00:43:29,440
+about killing me?
+
+617
+00:43:30,460 --> 00:43:32,460
+Then you could share my part.
+
+618
+00:43:35,490 --> 00:43:37,490
+How could we, Foster Dad?
+
+619
+00:43:38,410 --> 00:43:40,410
+Besides, I'm already old.
+
+620
+00:43:40,440 --> 00:43:42,440
+I'm just a hindrance to you.
+
+621
+00:43:45,460 --> 00:43:47,460
+Right?
+
+622
+00:43:48,480 --> 00:43:49,480
+Why did you say
+
+623
+00:43:49,510 --> 00:43:51,510
+I'm your secret weapon?
+
+624
+00:43:59,430 --> 00:44:01,430
+Are you gaslighting me? (manipulating me)
+
+625
+00:44:02,460 --> 00:44:04,460
+Gas what?
+
+626
+00:44:04,480 --> 00:44:06,480
+If anyone intended
+to do that, I'd kill them.
+
+627
+00:44:08,400 --> 00:44:10,400
+The knife's already in your hand.
+
+628
+00:44:10,430 --> 00:44:12,430
+You think I didn't see that?
+
+629
+00:44:14,450 --> 00:44:17,450
+Am I less skilled? You think
+I need special treatment too?
+
+630
+00:44:17,480 --> 00:44:19,480
+No, you have no issues.
+
+631
+00:44:20,400 --> 00:44:22,400
+You don't need special treatment.  
+
+632
+00:44:24,420 --> 00:44:26,420
+When there's a knife in your hand...  
+
+633
+00:44:27,450 --> 00:44:29,450
+don't blink.  
+
+634
+00:44:31,470 --> 00:44:33,470
+Be firm,  
+
+635
+00:44:37,400 --> 00:44:40,400
+or the shave won't be clean.  
+
+636
+00:44:43,420 --> 00:44:45,420
+So why is everyone on the field  
+
+637
+00:44:45,440 --> 00:44:47,440
+and I'm sitting here bringing you coffee?  
+
+638
+00:44:48,470 --> 00:44:50,470
+Do you want to... Yes.  
+
+639
+00:44:51,490 --> 00:44:53,490
+I do want to.  
+
+640
+00:45:02,420 --> 00:45:04,420
+But I need you here right now.  
+
+641
+00:45:05,440 --> 00:45:07,440
+Be my monitoring partner.  
+
+642
+00:45:10,460 --> 00:45:12,460
+That's an order.  
+
+643
+00:45:16,490 --> 00:45:18,490
+Yes, sir.  
+
+644
+00:45:21,410 --> 00:45:22,410
+Bro,  
+
+645
+00:45:22,440 --> 00:45:24,440
+if Xin hadn't held the old man back,  
+
+646
+00:45:24,460 --> 00:45:26,460
+he could have stabbed me.  
+
+647
+00:45:26,480 --> 00:45:28,480
+He really intended to kill me.  
+
+648
+00:45:36,410 --> 00:45:38,410
+Is it really that good?  
+
+649
+00:45:38,430 --> 00:45:40,430
+Just some lunch meat with egg noodles.  
+
+650
+00:45:40,460 --> 00:45:42,460
+Is your food better than a restaurant's?  
+
+651
+00:45:44,480 --> 00:45:46,480
+When I was your age,  
+
+652
+00:45:46,500 --> 00:45:48,400
+all I thought about was  
+
+653
+00:45:48,430 --> 00:45:50,430
+how to stay alive on the battlefield.  
+
+654
+00:45:53,450 --> 00:45:55,450
+I envy you all  
+
+655
+00:45:55,480 --> 00:45:57,480
+who can dream of anything  
+
+656
+00:45:58,400 --> 00:46:00,400
+and dare to dream of anything.  
+
+657
+00:46:00,420 --> 00:46:02,420
+All I want is a peaceful life  
+
+658
+00:46:02,450 --> 00:46:04,450
+with all my brothers.  
+
+659
+00:46:04,470 --> 00:46:06,470
+Not scattered like now.  
+
+660
+00:46:08,400 --> 00:46:10,400
+Over the years, to protect me,  
+
+661
+00:46:10,420 --> 00:46:14,420
+You sacrificed your time
+with your brothers.
+
+662
+00:46:15,440 --> 00:46:18,440
+Since the day we met,
+you protected me.
+
+663
+00:46:18,470 --> 00:46:20,470
+When all those police were chasing me,
+
+664
+00:46:20,490 --> 00:46:22,490
+I couldn't believe
+
+665
+00:46:23,420 --> 00:46:25,420
+a little beggar like you
+
+666
+00:46:26,440 --> 00:46:28,440
+would save me.
+
+667
+00:46:29,460 --> 00:46:31,460
+Then you risked your life
+
+668
+00:46:31,490 --> 00:46:33,490
+to keep that bankrupt orphanage
+alive.
+
+669
+00:46:33,510 --> 00:46:35,510
+Without you, we'd have starved.
+
+670
+00:46:42,440 --> 00:46:44,440
+Eat mine too.
+
+671
+00:46:49,460 --> 00:46:52,460
+Of all the children,
+I love you the most.
+
+672
+00:46:53,480 --> 00:46:56,480
+Because you're just like me.
+
+673
+00:46:57,410 --> 00:46:59,410
+Simon is more like you.
+
+674
+00:47:01,430 --> 00:47:03,430
+If so...
+
+675
+00:47:03,460 --> 00:47:05,460
+he could be very dangerous.
+
+676
+00:47:12,480 --> 00:47:14,480
+Eggy and Tofu, your date is over.
+
+677
+00:47:14,500 --> 00:47:16,500
+Change clothes and head to Point E.
+
+678
+00:47:17,430 --> 00:47:19,430
+Pudding. Change clothes.
+
+679
+00:47:19,450 --> 00:47:21,450
+Point B.
+
+680
+00:47:23,480 --> 00:47:25,480
+Fat Bun, Point A.
+
+681
+00:47:32,400 --> 00:47:34,400
+Something feels
+off lately.
+
+682
+00:47:35,420 --> 00:47:37,420
+Stay away for a while.
+
+683
+00:47:38,450 --> 00:47:40,450
+I can take care of myself.
+
+684
+00:47:55,470 --> 00:47:57,470
+MONITORING DAY 12
+
+685
+00:47:57,500 --> 00:48:00,400
+MONITORING DAY 15
+
+686
+00:48:13,420 --> 00:48:15,420
+Return to the car. Call the police.
+
+687
+00:48:18,440 --> 00:48:20,440
+I'm the police.
+
+688
+00:48:22,470 --> 00:48:23,470
+Help!
+
+689
+00:48:23,490 --> 00:48:25,490
+Hey, leave them alone!
+
+690
+00:48:25,520 --> 00:48:27,520
+Go away!
+
+691
+00:48:27,540 --> 00:48:30,440
+You're quite sweet, miss.
+
+692
+00:48:47,460 --> 00:48:49,460
+Who are you?
+
+693
+00:48:57,490 --> 00:48:59,490
+Go away!
+
+694
+00:49:07,410 --> 00:49:09,410
+Let's go.
+
+695
+00:49:12,440 --> 00:49:14,440
+Move!
+
+696
+00:49:19,460 --> 00:49:21,460
+System shutdown.
+
+697
+00:49:24,480 --> 00:49:26,480
+Are you aware you're on a mission?
+
+698
+00:49:29,410 --> 00:49:32,490
+Protecting civilians is a police
+officer's duty. At the right place and time.
+
+699
+00:49:33,430 --> 00:49:35,430
+You're on an active mission.
+
+700
+00:49:35,460 --> 00:49:37,460
+What mission? Lunch Operation for Officer Wong?
+
+701
+00:49:37,480 --> 00:49:39,480
+Sorry, I failed the mission.
+
+702
+00:49:40,400 --> 00:49:41,400
+Listen carefully.
+
+703
+00:49:41,430 --> 00:49:43,430
+You're on a secret surveillance mission.
+
+704
+00:49:43,450 --> 00:49:45,450
+Don't get caught,
+no matter what.
+
+705
+00:49:45,480 --> 00:49:47,480
+I didn't leak anything.
+But you want to take your badge!
+
+706
+00:49:47,500 --> 00:49:50,400
+If Shadow sees that,
+it's over. And where is he?
+
+707
+00:49:51,420 --> 00:49:53,420
+We've been roaming for weeks.
+
+708
+00:49:53,450 --> 00:49:56,050
+It's time for me to do real work.
+This is real work!
+
+709
+00:50:04,470 --> 00:50:06,470
+It's only been 2 weeks.
+
+710
+00:50:06,500 --> 00:50:08,500
+Do you know how long
+our longest mission lasted?
+
+711
+00:50:10,420 --> 00:50:12,420
+8 months!
+
+712
+00:50:15,440 --> 00:50:17,440
+I know.
+
+713
+00:50:18,470 --> 00:50:20,470
+8 months.
+
+714
+00:50:20,490 --> 00:50:22,490
+So what?
+
+715
+00:50:23,420 --> 00:50:25,420
+What happened?
+
+716
+00:50:25,440 --> 00:50:27,600
+My dad was killed because of you!
+The drug dealer escaped.
+
+717
+00:50:29,460 --> 00:50:32,460
+You know I didn't see him
+for over a year before he died?
+
+718
+00:50:49,490 --> 00:50:51,490
+That was my fault.
+
+719
+00:50:52,410 --> 00:50:54,410
+I...
+
+720
+00:50:55,440 --> 00:50:57,440
+You know what I did that day?
+
+721
+00:50:58,460 --> 00:51:00,460
+I did what you did.
+
+722
+00:51:02,480 --> 00:51:04,480
+Cute kid.
+
+723
+00:51:05,410 --> 00:51:07,410
+I have bubble balloons here.
+
+724
+00:51:07,430 --> 00:51:09,430
+Like bubble balloons? Yes.
+
+725
+00:51:09,460 --> 00:51:11,460
+Let's play inside the van, shall we?
+
+726
+00:51:11,480 --> 00:51:13,480
+We have lots of
+toys inside. Want to?
+
+727
+00:51:24,400 --> 00:51:26,400
+What? Get lost. Put the kid down.
+
+728
+00:51:26,430 --> 00:51:28,430
+Who are you? Put the child down!
+
+729
+00:51:29,450 --> 00:51:31,450
+Police.
+
+730
+00:51:31,480 --> 00:51:33,480
+Don't move!
+
+731
+00:51:33,500 --> 00:51:35,500
+What's the matter? Don't move!
+
+732
+00:51:35,520 --> 00:51:37,420
+Let me see your badge.
+
+733
+00:51:37,450 --> 00:51:39,450
+Police! Don't move!
+
+734
+00:52:06,470 --> 00:52:08,470
+My negligence
+
+735
+00:52:08,500 --> 00:52:10,500
+caused your father's death.
+
+736
+00:52:16,420 --> 00:52:18,420
+But you saved the child.
+
+737
+00:52:19,440 --> 00:52:21,440
+No.
+
+738
+00:52:22,470 --> 00:52:24,470
+The child abductor
+escaped during the commotion.
+
+739
+00:52:28,490 --> 00:52:30,490
+Did they find the child?
+
+740
+00:52:33,420 --> 00:52:35,420
+I don't know.
+
+741
+00:52:46,440 --> 00:52:48,440
+As police officers,
+
+742
+00:52:48,460 --> 00:52:50,460
+we must stay rational.
+
+743
+00:52:51,490 --> 00:52:52,490
+Follow discipline.
+
+744
+00:52:52,510 --> 00:52:54,510
+Execute orders.
+
+745
+00:52:56,440 --> 00:52:58,440
+Better regret
+
+746
+00:53:00,460 --> 00:53:02,460
+than make a mistake.
+
+747
+00:53:04,480 --> 00:53:06,480
+Because that's our duty.
+
+748
+00:53:59,430 --> 00:54:01,430
+Possible sighting of
+Shadow. Rua de Oeste Market.
+
+749
+00:54:01,460 --> 00:54:02,460
+Blue sweater jacket
+
+750
+00:54:02,480 --> 00:54:04,480
+Gray pants. Wears a brown beret hat.
+
+751
+00:54:04,500 --> 00:54:05,900
+Maybe wearing glasses.
+
+752
+00:54:05,930 --> 00:54:07,430
+Everyone, change clothes!
+
+753
+00:54:07,450 --> 00:54:09,450
+Prepare to identify them.
+
+754
+00:54:12,480 --> 00:54:14,480
+All units, attention.
+
+755
+00:54:14,500 --> 00:54:16,500
+Shadow spotted. Monitor the market.
+
+756
+00:54:16,520 --> 00:54:18,520
+Gemas Unit on the way.
+
+757
+00:54:19,450 --> 00:54:21,450
+Alpaca, Potsticker, east.
+
+758
+00:54:21,470 --> 00:54:22,870
+Eggy, Tofu, west.
+
+759
+00:54:22,900 --> 00:54:24,400
+Lucky, Rice Roll, south.
+
+760
+00:54:24,420 --> 00:54:25,420
+Pudding, Fat Bun, north.
+
+761
+00:54:25,440 --> 00:54:27,440
+Shadow may have seen you before.
+
+762
+00:54:27,470 --> 00:54:29,470
+A professional like them won't forget.
+
+763
+00:54:29,490 --> 00:54:31,490
+They'll be alert for the second time
+
+764
+00:54:31,520 --> 00:54:32,520
+and become suspicious.
+
+765
+00:54:32,540 --> 00:54:34,540
+Maintain a 2-unit distance.
+
+766
+00:54:35,460 --> 00:54:37,460
+Pinky.
+
+767
+00:54:39,490 --> 00:54:41,490
+Identify them closely.
+
+768
+00:54:42,410 --> 00:54:44,410
+They haven't seen your face.
+
+769
+00:54:44,440 --> 00:54:47,440
+Field surveillance advice.
+
+770
+00:54:47,460 --> 00:54:49,460
+You must use the most inconspicuous officer
+you can.
+
+771
+00:54:49,480 --> 00:54:51,600
+Preferably someone the suspect hasn't
+seen before.
+
+772
+00:54:57,410 --> 00:54:59,410
+Go ahead.
+
+773
+00:55:17,430 --> 00:55:18,430
+Slowly.
+
+774
+00:55:18,460 --> 00:55:20,460
+Keep your distance.
+
+775
+00:55:23,480 --> 00:55:25,480
+Doghead calling Animal Paradise.
+
+776
+00:55:25,500 --> 00:55:27,500
+Gemas Unit on site.
+
+777
+00:55:27,530 --> 00:55:28,530
+Alpaca.
+
+778
+00:55:28,550 --> 00:55:30,550
+Approach the fruit stall in the west.
+
+779
+00:55:35,480 --> 00:55:36,480
+Walk slowly.
+
+780
+00:55:36,500 --> 00:55:37,500
+Don't rush.
+
+781
+00:55:37,520 --> 00:55:40,420
+Our mission is to identify the target.
+
+782
+00:55:40,450 --> 00:55:42,450
+Make sure Shadow doesn't escape.
+
+783
+00:55:44,470 --> 00:55:46,470
+Calm down. Act natural.
+
+784
+00:55:47,400 --> 00:55:48,400
+He's a professional.
+
+785
+00:55:48,420 --> 00:55:50,420
+Don't be careless.
+
+786
+00:55:54,440 --> 00:55:56,440
+Potsticker, exit via the east. Okay.
+
+787
+00:55:56,470 --> 00:55:58,470
+Fat Bun, standby near the bridge. Okay.
+
+788
+00:56:04,490 --> 00:56:05,990
+Pudding, don't get too close.
+
+789
+00:56:06,020 --> 00:56:07,420
+Keep your distance.
+
+790
+00:56:07,440 --> 00:56:09,440
+Alpaca. Can you identify him?
+
+791
+00:56:12,460 --> 00:56:13,460
+Can't do it.
+
+792
+00:56:13,490 --> 00:56:14,490
+Can't see his face.
+
+793
+00:56:14,510 --> 00:56:16,510
+Can't be certain.
+
+794
+00:56:21,440 --> 00:56:23,440
+We might be able to see his face.
+
+795
+00:56:30,460 --> 00:56:32,460
+Eggy, Shadow might have
+seen you in Aoxing.
+
+796
+00:56:33,480 --> 00:56:35,480
+Don't turn around.
+
+797
+00:56:44,410 --> 00:56:46,410
+Tofu, well done.
+
+798
+00:56:46,430 --> 00:56:48,430
+Pinky, it's your turn now.
+
+799
+00:56:52,460 --> 00:56:54,460
+Be careful.
+
+800
+00:57:00,480 --> 00:57:02,480
+I'm going to approach him.
+
+801
+00:57:07,400 --> 00:57:09,400
+Pinky, you might get exposed.
+
+802
+00:57:09,430 --> 00:57:11,430
+I know. I have an idea.
+
+803
+00:57:46,450 --> 00:57:47,450
+It's definitely him.
+
+804
+00:57:47,480 --> 00:57:49,480
+Confirmed.
+
+805
+00:57:49,500 --> 00:57:51,500
+Lower your hands.
+
+806
+00:57:59,420 --> 00:58:01,420
+Don't move the camera.
+
+807
+00:58:17,450 --> 00:58:19,450
+All units, confirmed
+positive identification of Shadow.
+
+808
+00:58:20,470 --> 00:58:21,476
+Cute Unit, change clothes and standby.
+
+809
+00:58:21,500 --> 00:58:22,500
+Keep your distance.
+
+810
+00:58:22,520 --> 00:58:24,520
+Everyone, good job.
+
+811
+00:58:28,440 --> 00:58:30,440
+Target has been confirmed.
+
+812
+00:58:30,470 --> 00:58:33,470
+All units, do not
+enter the 3-block perimeter.
+
+813
+00:58:33,490 --> 00:58:36,490
+I repeat, do not approach the target area.
+
+814
+00:58:36,520 --> 00:58:38,520
+Attention, no sirens.
+
+815
+00:58:43,440 --> 00:58:45,440
+The target has entered the blind spot.
+
+816
+00:58:48,460 --> 00:58:50,460
+Lucky, it's your turn.
+
+817
+00:58:50,490 --> 00:58:52,490
+Potsticker, tail him.
+
+818
+00:58:53,410 --> 00:58:55,410
+Don't get too close.
+
+819
+00:58:56,440 --> 00:58:58,440
+That bastard won't get far.
+
+820
+00:59:00,460 --> 00:59:02,460
+Shadow is heading to Changning Apartments.
+
+821
+00:59:04,480 --> 00:59:06,486
+The blocks are connected inside.
+There are hundreds of apartments.
+
+822
+00:59:06,510 --> 00:59:09,310
+If we don't get the apartment number,
+we won't have another chance.
+
+823
+00:59:22,430 --> 00:59:24,430
+Shadow is in Block C, Unit 1.
+
+824
+00:59:24,460 --> 00:59:27,140
+There are no cameras inside the building.
+We'll lose him in the elevator.
+
+825
+00:59:27,480 --> 00:59:28,480
+Pull over.
+
+826
+00:59:28,500 --> 00:59:29,900
+Cute Unit. They're too far.
+
+827
+00:59:29,930 --> 00:59:30,930
+Cute Unit, respond.
+
+828
+00:59:30,950 --> 00:59:31,956
+I’m too far to chase.
+
+829
+00:59:31,980 --> 00:59:33,780
+Potsticker, don't follow.
+
+830
+00:59:33,800 --> 00:59:36,400
+Eggy, don't follow.
+I'll go. Pinky can follow.
+
+831
+00:59:39,420 --> 00:59:41,420
+I'm going in.
+
+832
+01:00:56,450 --> 01:00:58,450
+Top floor.
+
+833
+01:01:14,470 --> 01:01:16,470
+What are you doing? Will you listen to your father or not?
+
+834
+01:01:16,500 --> 01:01:18,500
+What? Dating without my knowledge.
+
+835
+01:01:18,520 --> 01:01:20,520
+My friend caught you, you know.
+
+836
+01:01:25,440 --> 01:01:27,440
+Which floor?
+
+837
+01:01:28,470 --> 01:01:29,470
+I forgot something.
+
+838
+01:01:29,490 --> 01:01:31,490
+You two go ahead.
+
+839
+01:01:48,420 --> 01:01:51,420
+Dressing up now? Your dad knows
+you can lose an earring
+
+840
+01:01:51,440 --> 01:01:54,440
+wearing those big headphones.
+Seriously, don't bother me.
+
+841
+01:01:56,460 --> 01:01:57,460
+See this?
+
+842
+01:01:57,490 --> 01:01:59,490
+Kids don't listen when they grow up.
+
+843
+01:01:59,510 --> 01:02:01,510
+They're only good at opposing their parents.
+
+844
+01:02:03,440 --> 01:02:06,440
+They grow up with their own thoughts.
+
+845
+01:02:07,460 --> 01:02:09,460
+What can a father do?
+
+846
+01:02:09,480 --> 01:02:12,480
+You're open-minded.
+Otherwise, they'll start
+
+847
+01:02:12,510 --> 01:02:14,510
+hiding things from you.
+
+848
+01:02:21,430 --> 01:02:24,430
+Your Aunt Kandam says
+that guy looks like an alpaca.
+
+849
+01:02:24,460 --> 01:02:26,060
+Is that why you're
+hiding him from your dad?
+
+850
+01:02:26,080 --> 01:02:28,480
+Who? The guy you're dating.
+
+851
+01:02:29,400 --> 01:02:30,900
+What's wrong if he looks like an alpaca?
+
+852
+01:02:30,930 --> 01:02:32,930
+Alpacas are cute.
+
+853
+01:02:33,450 --> 01:02:35,450
+He's actually handsome, you know?
+
+854
+01:02:36,480 --> 01:02:38,480
+It's been days.
+Why did dad buy it?
+
+855
+01:02:38,500 --> 01:02:40,620
+Got camera signal. Everything's
+the same once it hits the stomach.
+
+856
+01:02:42,420 --> 01:02:43,420
+Here.
+
+857
+01:02:43,450 --> 01:02:45,450
+Want some?
+
+858
+01:02:48,470 --> 01:02:50,470
+Check his background. Fine.
+
+859
+01:02:50,500 --> 01:02:52,400
+Shadow's face has been acquired.
+
+860
+01:02:52,420 --> 01:02:54,420
+Caught on camera.
+
+861
+01:02:54,440 --> 01:02:56,440
+Why did he spit it out?
+
+862
+01:02:57,470 --> 01:02:59,710
+The cleaner will
+take care of it. See, it's fine.
+
+863
+01:03:00,490 --> 01:03:02,490
+Dad hopes you'll marry
+
+864
+01:03:02,520 --> 01:03:04,520
+into a wealthy family someday.
+
+865
+01:03:04,540 --> 01:03:06,540
+Ever seen wealthy in-laws
+
+866
+01:03:06,560 --> 01:03:08,560
+with uncultivated manners?
+
+867
+01:03:08,590 --> 01:03:11,490
+One rotten apple shouldn't
+spoil the whole family.
+
+868
+01:03:11,510 --> 01:03:13,510
+Will dad act better?
+
+869
+01:03:13,540 --> 01:03:15,440
+Buy fresh fruit.
+
+870
+01:03:15,460 --> 01:03:17,460
+Dad saves money for you.
+
+871
+01:03:17,480 --> 01:03:19,480
+No more.
+
+872
+01:03:22,410 --> 01:03:24,410
+Goodbye.
+
+873
+01:03:32,430 --> 01:03:34,430
+So who's flirting with whom now?
+
+874
+01:03:34,460 --> 01:03:36,460
+None of your business, Dad.
+
+875
+01:03:36,480 --> 01:03:38,640
+Your temper is bad.
+What does she see in you?
+
+876
+01:03:41,400 --> 01:03:42,400
+Keep moving.
+
+877
+01:03:42,430 --> 01:03:44,430
+My temper is good.
+
+878
+01:03:45,450 --> 01:03:47,450
+Now what? Follow me.
+
+879
+01:03:47,480 --> 01:03:49,480
+What's the sign? What's the deal?
+
+880
+01:03:49,500 --> 01:03:51,500
+Maybe she's right for me.
+
+881
+01:03:53,420 --> 01:03:54,420
+You're not serious, Dad.
+
+882
+01:03:54,450 --> 01:03:56,450
+Get the package. I'm
+impressed by how nosy you are.
+
+883
+01:04:01,470 --> 01:04:03,470
+You bought a lot of stuff.
+
+884
+01:04:13,400 --> 01:04:15,400
+Police.
+
+885
+01:04:16,420 --> 01:04:17,420
+Close the door!
+
+886
+01:04:17,440 --> 01:04:19,680
+We need this apartment,
+please step aside. Police business.
+
+887
+01:04:24,470 --> 01:04:26,470
+8th floor.
+
+888
+01:04:43,490 --> 01:04:45,490
+No. 802, got it.
+
+889
+01:04:45,520 --> 01:04:47,520
+Shadow lives in Channing's apartment.
+
+890
+01:04:47,540 --> 01:04:50,440
+Block C, Unit 1, No. 802. Info confirmed.
+
+891
+01:05:20,460 --> 01:05:22,460
+Pick it up.
+
+892
+01:05:40,490 --> 01:05:41,490
+What's that noise?
+
+893
+01:05:41,510 --> 01:05:43,510
+Popping bubble wrap?
+
+894
+01:05:43,540 --> 01:05:45,540
+Is this OCD?
+
+895
+01:05:55,460 --> 01:05:57,460
+This can't be broken.
+No wonder it's torn.
+
+896
+01:06:02,480 --> 01:06:04,480
+Weird.
+
+897
+01:06:04,510 --> 01:06:06,510
+This is all wrong.
+
+898
+01:06:30,430 --> 01:06:34,430
+In the past, Shadow always
+disappeared after missions
+
+899
+01:06:34,460 --> 01:06:36,460
+and stayed hidden for a while.
+
+900
+01:06:36,480 --> 01:06:38,480
+He's a man of principle.
+
+901
+01:06:38,500 --> 01:06:40,500
+This time, he broke
+his own protocol.
+
+902
+01:06:40,530 --> 01:06:42,430
+What happened?
+
+903
+01:06:42,450 --> 01:06:44,450
+If I'm not mistaken,
+
+904
+01:06:44,480 --> 01:06:46,480
+my guess is
+
+905
+01:06:46,500 --> 01:06:48,400
+we've scared him.
+
+906
+01:06:48,420 --> 01:06:50,420
+Whatever he wants to play,
+
+907
+01:06:50,450 --> 01:06:52,450
+/log_series/ just go timelines consS/,log_1sS/,log_2sS/,log_dr,log_emmer/,log_stormy/./log_series/ consS/,log_consS/,log_sta/"
+
+908
+01:06:59,470 --> 01:07:01,470
+Finally stopped buying rotten apples?
+
+909
+01:07:01,500 --> 01:07:03,500
+What a coincidence.
+
+910
+01:07:05,420 --> 01:07:07,420
+How much is it?
+
+911
+01:07:07,440 --> 01:07:09,440
+$3.70. The price has gone up.
+
+912
+01:07:10,470 --> 01:07:11,470
+It's okay.
+
+913
+01:07:11,490 --> 01:07:13,490
+20 cents.
+
+914
+01:07:13,520 --> 01:07:15,020
+Everything is more breaking down now./e have log_emmet/,log_emmet/,log_town/.
+
+915
+01:07:15,040 --> 01:07:17,040
+This one. Thanks.
+
+916
+01:07:18,460 --> 01:07:20,460
+That stand is cheaper.
+
+917
+01:07:20,490 --> 01:07:22,490
+Are you kidding? They're worse.
+
+918
+01:07:22,510 --> 01:07:24,510
+Nothing's fresh.
+
+919
+01:07:26,440 --> 01:07:28,440
+I mean the fish stall behind it.
+
+920
+01:07:28,460 --> 01:07:30,460
+That's cheap.
+
+921
+01:07:30,480 --> 01:07:32,480
+You're right.
+
+922
+01:07:32,510 --> 01:07:34,510
+Especially since the owner's father is friendly.
+
+923
+01:07:34,530 --> 01:07:36,530
+10 dollars.
+
+924
+01:07:36,560 --> 01:07:38,460
+It's a pity
+
+925
+01:07:38,480 --> 01:07:40,480
+he passed AND ss_suddenly pass log_emmet/,log_emmet/, whose log_emmet/.
+
+926
+01:07:40,500 --> 01:07:41,500
+Heart attack.
+
+927
+01:07:41,530 --> 01:07:43,530
+Asthma.
+
+928
+01:07:46,450 --> 01:07:48,450
+Your daughter has grown court big.
+Doesn't she want to move then? 
+
+929
+01:07:48,480 --> 01:07:51,480
+Her mother left me because of my gambling habit.
+
+930
+01:07:51,500 --> 01:07:53,500
+After her mom died from illness,###controller log_emmet/,###controller log_emmet/.###controller log_emmet/")"###controller log_emmet/@controller log_motivate@",###controller log_emmet/."###controller log_emmet/,###controller log_emmet)###controller log_emmet;,sleep###.""/log_controller/,###controller log_emmet/.,###controller log_emmet/,/"###controller log_emmet")###controller log HOUSE marks###")###-}controller log emmet/log_emmet/log_emmet/,###log_emmet/./log_emmet".###controller log_emmet."###controller log_emmet-./###controller log_motivate///controller_tracks/log_controller/,###controller log_motivate/,###controller log_vc./log_emmet/,.###".).###controller log_motivate"`)###controller_skins//controller log_emmet/###logs/log_emmet/###logs/log_emmet/-log_emmet/log_emmet";,/###controller log_motivate/###controller log_motivate/###controller log_emmet)###controller_s";//controllers_log_emmet/log_emmet;./log_emmet/.###log_emmet-().###logs/log_emmet/"###-###log_motivate/###controller_leaks/log_emmet/,###controller_moblog_controller/motivate"//"log_emmet/###logs_log_emmet//###c/log_emmet/###controllers_log_emmet/###controllers_a_ triggers-particles_controller_emmet/log_emmet/log_emmet/./###log_emmet/,###controller/log_emmet.###controller;###log_emmet/./###log_emmet/-engagements_motivate_examples/log_emmet_controller/log_emmet/home_action_logs/log_emmet_controllers/,###controller emmet_log_motivate_s/control_log_emmet_motivate/motivate_log_emmet-
+
+931
+01:07:54,420 --> 01:07:56,420
+she moved in with me.  
+
+932
+01:07:58,450 --> 01:08:00,450
+Thanks.  
+
+933
+01:08:00,470 --> 01:08:01,470
+What are you doing?  
+
+934
+01:08:01,500 --> 01:08:03,400
+Planning to work at a casino?  
+
+935
+01:08:03,420 --> 01:08:05,780
+Selling fish isn't enough to pay
+the bills. Offer grass carp.  
+
+936
+01:08:07,440 --> 01:08:09,440
+See this callus?  
+
+937
+01:08:10,470 --> 01:08:12,470
+It's from playing cards often
+when I was young.  
+
+938
+01:08:12,490 --> 01:08:14,490
+I wanted to be the God of Gamblers. I didn't know  
+
+939
+01:08:14,520 --> 01:08:16,520
+that it was only in movies.  
+
+940
+01:08:17,440 --> 01:08:19,440
+I thought  
+
+941
+01:08:19,460 --> 01:08:21,460
+your calluses were from handling guns.  
+
+942
+01:08:21,490 --> 01:08:24,490
+Never held a gun. But
+held a chef's knife for 10 years.  
+
+943
+01:08:25,410 --> 01:08:27,410
+If there's time. I'll
+cook some dishes.  
+
+944
+01:08:27,440 --> 01:08:29,440
+Stop by  
+
+945
+01:08:29,460 --> 01:08:31,460
+and have a drink.  
+
+946
+01:08:32,480 --> 01:08:33,480
+That's funny.  
+
+947
+01:08:33,510 --> 01:08:35,510
+I was a chef abroad.  
+
+948
+01:08:35,530 --> 01:08:36,530
+My teacher was from Hangzhou.  
+
+949
+01:08:36,560 --> 01:08:38,560
+I cooked delicious West Lake vinegar fish.  
+
+950
+01:08:39,480 --> 01:08:41,480
+How about today?  
+
+951
+01:08:44,400 --> 01:08:45,400
+Sure.  
+
+952
+01:08:45,430 --> 01:08:47,430
+I happen to have a bottle of Chilean wine,  
+
+953
+01:08:47,450 --> 01:08:49,450
+perfect with that dish.  
+
+954
+01:08:50,480 --> 01:08:52,480
+You bring the wine, I'll do the cooking.  
+
+955
+01:08:55,400 --> 01:08:56,400
+Come in.  
+
+956
+01:08:56,420 --> 01:08:58,420
+Please sit.  
+
+957
+01:08:58,450 --> 01:09:00,450
+I'll put this in the fridge.  
+
+958
+01:09:07,470 --> 01:09:09,470
+What's he doing? Checking for dust.  
+
+959
+01:09:09,500 --> 01:09:11,500
+To know they just moved in.  
+
+960
+01:09:15,420 --> 01:09:16,420
+You won't avoid it.  
+
+961
+01:09:16,440 --> 01:09:17,840
+You might be a guest,
+
+962
+01:09:17,870 --> 01:09:19,870
+but you can't escape kitchen duties.
+
+963
+01:09:19,890 --> 01:09:21,890
+Show us your skills.
+
+964
+01:09:21,920 --> 01:09:23,920
+I can't wait.
+
+965
+01:09:24,440 --> 01:09:26,440
+How long have you been a chef?
+
+966
+01:09:26,460 --> 01:09:28,460
+More than 10 years.
+
+967
+01:09:29,490 --> 01:09:31,490
+Is that the knife you're using?
+
+968
+01:09:49,410 --> 01:09:51,410
+You're good with the knife.
+
+969
+01:09:51,440 --> 01:09:53,440
+I just enjoy
+
+970
+01:09:53,460 --> 01:09:55,460
+doing things right.
+
+971
+01:09:56,480 --> 01:09:58,480
+Do you have kids?
+
+972
+01:09:58,510 --> 01:09:59,510
+I'm alone.
+
+973
+01:09:59,530 --> 01:10:01,530
+A lonely old man.
+
+974
+01:10:01,560 --> 01:10:03,560
+This is my own cooking.
+
+975
+01:10:07,480 --> 01:10:09,480
+Your daughter seems smart.
+
+976
+01:10:09,500 --> 01:10:11,500
+The scar on her forehead...
+
+977
+01:10:11,530 --> 01:10:13,530
+what's it from?
+
+978
+01:10:21,450 --> 01:10:22,450
+Put your phone down.
+
+979
+01:10:22,480 --> 01:10:24,480
+Chat with our guest. Okay.
+
+980
+01:10:25,400 --> 01:10:27,400
+I'll go to the bathroom first.
+
+981
+01:10:31,420 --> 01:10:33,420
+If I had kids,
+
+982
+01:10:33,450 --> 01:10:35,450
+I'd also ban phones at the dining table.
+
+983
+01:10:40,470 --> 01:10:43,470
+Start cloning. What did you study?
+
+984
+01:10:43,500 --> 01:10:44,500
+Nursing.
+
+985
+01:10:44,520 --> 01:10:46,520
+Are you planning to be a nurse after graduation?
+
+986
+01:10:48,440 --> 01:10:50,440
+Maybe at a nursing home.
+
+987
+01:10:51,470 --> 01:10:53,470
+You're kind-hearted.
+
+988
+01:10:55,490 --> 01:10:57,490
+How did you get hurt like that?
+
+989
+01:10:57,520 --> 01:10:59,520
+This one?
+
+990
+01:11:01,440 --> 01:11:03,440
+Grade 5.
+
+991
+01:11:03,460 --> 01:11:05,460
+Fighting with a girl.
+
+992
+01:11:06,490 --> 01:11:08,490
+Why fight?
+
+993
+01:11:08,510 --> 01:11:10,510
+There was a classmate
+being bullied. I couldn't just stay silent.
+
+994
+01:11:11,440 --> 01:11:13,440
+But I never told until now.
+
+995
+01:11:16,460 --> 01:11:18,460
+Does your dad know? He couldn't possibly know.
+
+996
+01:11:20,480 --> 01:11:22,480
+That's strange.
+
+997
+01:11:22,510 --> 01:11:24,510
+How so?
+
+998
+01:11:25,430 --> 01:11:27,430
+What did you say that she got hurt?
+
+999
+01:11:28,460 --> 01:11:30,460
+She fought back in 5th grade.
+
+1000
+01:11:30,480 --> 01:11:31,480
+1 against 5.
+
+1001
+01:11:31,500 --> 01:11:33,500
+Someone hit her with a bottle.
+
+1002
+01:11:38,430 --> 01:11:40,430
+I never told anyone.
+
+1003
+01:11:40,450 --> 01:11:42,450
+Not even mom.
+
+1004
+01:11:43,480 --> 01:11:45,480
+You didn't tell her
+because you didn't want her to worry.
+
+1005
+01:11:45,500 --> 01:11:48,400
+Even your teacher thought you hit a door.
+
+1006
+01:11:48,420 --> 01:11:50,420
+Right?
+
+1007
+01:11:52,450 --> 01:11:54,450
+Then how does dad know?
+
+1008
+01:11:59,470 --> 01:12:01,470
+After our divorce,
+
+1009
+01:12:02,400 --> 01:12:04,400
+my debts
+
+1010
+01:12:04,420 --> 01:12:06,420
+made me plenty of enemies.
+
+1011
+01:12:07,440 --> 01:12:09,440
+Dad was worried they might harm you.
+
+1012
+01:12:12,470 --> 01:12:14,470
+Actually...
+
+1013
+01:12:14,490 --> 01:12:16,490
+dad was always near you.
+
+1014
+01:12:25,420 --> 01:12:27,420
+See?
+
+1015
+01:12:28,440 --> 01:12:30,440
+That's what a father does.
+
+1016
+01:12:36,460 --> 01:12:38,460
+Then why didn't dad help me?
+
+1017
+01:12:38,490 --> 01:12:39,490
+Help you?
+
+1018
+01:12:39,510 --> 01:12:41,510
+Remember what you did to those kids?
+
+1019
+01:12:41,540 --> 01:12:42,540
+It was a mess.
+
+1020
+01:12:42,560 --> 01:12:45,460
+I was afraid to intervene. Praise me.
+
+1021
+01:12:45,480 --> 01:12:47,480
+I defended someone.
+
+1022
+01:12:47,510 --> 01:12:48,510
+You... What?
+
+1023
+01:12:48,530 --> 01:12:50,530
+You committed a murder. You must be kidding.
+
+1024
+01:12:51,460 --> 01:12:53,460
+Dad made me embarrassed.
+
+1025
+01:13:13,400 --> 01:13:15,400
+How did it go?
+
+1026
+01:13:17,430 --> 01:13:19,430
+Go ahead.
+
+1027
+01:13:23,450 --> 01:13:25,450
+Thank you.
+
+1028
+01:13:25,480 --> 01:13:27,480
+For what?
+
+1029
+01:13:28,400 --> 01:13:30,400
+For protecting us.
+
+1030
+01:13:37,420 --> 01:13:39,420
+There are things
+
+1031
+01:13:39,450 --> 01:13:41,450
+that cannot be undone.
+
+1032
+01:13:44,470 --> 01:13:46,470
+The only thing I can
+do for your father
+
+1033
+01:13:48,400 --> 01:13:50,400
+is watch over you.
+
+1034
+01:13:52,420 --> 01:13:54,420
+I know you've been worried about me all this time.
+
+1035
+01:13:55,440 --> 01:13:57,440
+You want to protect me.
+
+1036
+01:13:59,470 --> 01:14:01,470
+But I'm grown up.
+
+1037
+01:14:03,490 --> 01:14:05,490
+I'll be fine.
+
+1038
+01:14:09,420 --> 01:14:11,420
+You're okay.
+
+1039
+01:14:13,440 --> 01:14:14,440
+Bro...
+
+1040
+01:14:14,460 --> 01:14:16,460
+if you fail,
+
+1041
+01:14:16,490 --> 01:14:18,490
+then I'll take over next sop.
+
+1042
+01:14:19,410 --> 01:14:22,410
+If we use your method, there's
+no turning back for us.
+
+1043
+01:14:22,440 --> 01:14:24,440
+I just want
+
+1044
+01:14:24,460 --> 01:14:26,460
+to do something right.
+
+1045
+01:14:33,480 --> 01:14:35,486
+They have anti-tracker.
+Must be that hacker.
+
+1046
+01:14:35,510 --> 01:14:37,510
+Don't proceed.
+
+1047
+01:14:38,430 --> 01:14:41,430
+Did you check his background?
+
+1048
+01:14:44,460 --> 01:14:46,460
+Yes.
+
+1049
+01:14:49,480 --> 01:14:51,480
+Guoguo? Forget something?
+
+1050
+01:15:01,400 --> 01:15:03,400
+There's nothing to worry about.
+
+1051
+01:15:03,430 --> 01:15:05,430
+Maybe my worries are overblown.
+
+1052
+01:15:12,450 --> 01:15:14,450
+Do you sense anything wrong?
+
+1053
+01:15:36,480 --> 01:15:38,480
+I realize that
+
+1054
+01:15:38,500 --> 01:15:40,500
+you've grown up now.
+
+1055
+01:15:40,520 --> 01:15:42,520
+It's time to let go.
+
+1056
+01:16:18,450 --> 01:16:20,450
+Let's follow your plan.
+
+1057
+01:16:20,470 --> 01:16:22,470
+Okay. Do you understand what you're doing?
+
+1058
+01:16:28,400 --> 01:16:30,400
+I understand.
+
+1059
+01:17:20,420 --> 01:17:22,420
+That girl is not Guoguo.
+
+1060
+01:17:22,440 --> 01:17:24,440
+What do you mean? There's something
+wrong with this camera.
+
+1061
+01:17:24,470 --> 01:17:26,470
+It's clearly not Qiuguo.
+
+1062
+01:17:31,490 --> 01:17:33,490
+Send help to Wong. He's in danger!
+
+1063
+01:17:34,420 --> 01:17:36,420
+The police are coming. I'm leaving.
+
+1064
+01:18:08,440 --> 01:18:09,440
+I failed.
+
+1065
+01:18:09,460 --> 01:18:11,460
+I'll find another way.
+
+1066
+01:18:34,490 --> 01:18:35,490
+Hey.
+
+1067
+01:18:35,510 --> 01:18:37,510
+Has Shadow made a move?
+
+1068
+01:18:37,540 --> 01:18:39,540
+No, still quiet.
+
+1069
+01:18:45,460 --> 01:18:47,460
+You were given a chance, Xiwang.
+
+1070
+01:18:51,480 --> 01:18:53,480
+Those kids
+
+1071
+01:18:53,510 --> 01:18:55,410
+did not tell Shadow
+
+1072
+01:18:55,430 --> 01:18:57,430
+that he's being watched.
+
+1073
+01:18:58,460 --> 01:19:00,460
+They know we're using
+Shadow to track them,
+
+1074
+01:19:00,480 --> 01:19:01,480
+so we won't touch him.
+
+1075
+01:19:01,500 --> 01:19:03,500
+[Eliminate the target]
+
+1076
+01:19:03,530 --> 01:19:05,530
+[Forcefully seize the digital safe]
+
+1077
+01:19:06,450 --> 01:19:08,450
+[Your plan is crazy]
+
+1078
+01:19:08,480 --> 01:19:10,480
+Killing me and creating chaos
+
+1079
+01:19:10,500 --> 01:19:13,400
+will open the opportunity to release Shadow.
+
+1080
+01:19:13,420 --> 01:19:16,420
+After failing this time, they'll
+look for another opportunity.
+
+1081
+01:19:17,450 --> 01:19:20,250
+[Including the US$30 million payment]
+
+1082
+01:19:20,470 --> 01:19:23,470
+Their chance is also our opportunity.
+
+1083
+01:19:23,500 --> 01:19:25,500
+We must eradicate this gang of robbers
+
+1084
+01:19:25,520 --> 01:19:26,520
+once and for all.
+
+1085
+01:19:26,540 --> 01:19:27,540
+[At that price]
+
+1086
+01:19:27,570 --> 01:19:30,470
+[no one will open
+that vault for you]
+
+1087
+01:19:32,490 --> 01:19:34,490
+[US$50 million]
+
+1088
+01:19:38,420 --> 01:19:39,420
+[Agreed]
+
+1089
+01:19:44,440 --> 01:19:46,440
+72 HOURS LATER
+
+1090
+01:19:51,460 --> 01:19:53,460
+Shadow is on the move.
+
+1091
+01:20:10,490 --> 01:20:12,490
+Monitoring team, disperse.
+
+1092
+01:20:13,410 --> 01:20:15,410
+Madam, it's the same taxi
+
+1093
+01:20:15,440 --> 01:20:17,440
+as the one at Aoxing.
+
+1094
+01:20:17,460 --> 01:20:19,460
+Sending photos to the monitoring team now.
+
+1095
+01:20:19,480 --> 01:20:20,480
+We are on alert.
+
+1096
+01:20:20,510 --> 01:20:22,510
+Once the suspect's location
+is locked, we're ready to go in.
+
+1097
+01:20:27,430 --> 01:20:29,430
+Target vehicle approaching our Headquarters.
+
+1098
+01:20:29,460 --> 01:20:31,460
+Are they surrendering?
+
+1099
+01:20:32,480 --> 01:20:34,480
+Doesn't look like it.
+
+1100
+01:20:41,400 --> 01:20:43,400
+Wait!
+
+1101
+01:20:43,430 --> 01:20:45,430
+Show that cabinet again.
+
+1102
+01:20:51,450 --> 01:20:53,450
+Why is it still there?
+
+1103
+01:20:56,480 --> 01:20:57,480
+This can't be resolved.
+
+1104
+01:20:57,500 --> 01:20:59,500
+This is all wrong.
+
+1105
+01:21:03,420 --> 01:21:05,420
+Zoom in, show it again.
+
+1106
+01:21:12,450 --> 01:21:13,450
+What is that?
+
+1107
+01:21:13,470 --> 01:21:15,470
+Looks like Wong's van was hit.
+
+1108
+01:21:43,400 --> 01:21:44,400
+Officer Wong?
+
+1109
+01:21:44,420 --> 01:21:46,420
+Wong, can you hear?
+
+1110
+01:21:46,440 --> 01:21:48,440
+Wong, respond if you can hear.
+
+1111
+01:21:48,470 --> 01:21:50,470
+Officer Wong? Officer Wong?
+
+1112
+01:21:50,490 --> 01:21:52,490
+Officer Wong? Guoguo?
+
+1113
+01:21:52,520 --> 01:21:54,520
+Their vehicle... broke in.
+
+1114
+01:21:54,540 --> 01:21:56,540
+Whose vehicle?
+
+1115
+01:22:06,460 --> 01:22:07,460
+Headquarters attacked?
+
+1116
+01:22:07,490 --> 01:22:09,490
+Madam, what's happening?
+
+1117
+01:22:17,410 --> 01:22:19,410
+Du Ping, ready to move
+the command unit. Yes, madam.
+
+1118
+01:22:19,440 --> 01:22:21,440
+Monitor, stay focused. Watch the target.
+
+1119
+01:22:21,460 --> 01:22:23,460
+Watch every move of Shadow.
+
+1120
+01:22:31,480 --> 01:22:33,480
+Officer Wong.
+
+1121
+01:22:36,410 --> 01:22:38,410
+Someone's still alive.
+
+1122
+01:22:38,430 --> 01:22:40,430
+Finish them.
+
+1123
+01:23:17,460 --> 01:23:19,460
+His phone...
+
+1124
+01:23:19,480 --> 01:23:20,480
+Destroyed.
+
+1125
+01:23:20,500 --> 01:23:22,500
+The key to the puzzle
+isn't numbers. It's positions.
+
+1126
+01:23:22,530 --> 01:23:24,530
+They're using Braille letters.
+The bubble wrap is also Braille.
+
+1127
+01:23:24,550 --> 01:23:27,450
+Call Intelligence to decipher the message.
+
+1128
+01:23:27,480 --> 01:23:29,480
+Find out their plan.
+
+1129
+01:23:36,400 --> 01:23:38,400
+Get the phone, I'll intercept them. Hurry!
+
+1130
+01:23:47,420 --> 01:23:49,420
+What is this place? Seems like
+an old orphanage.
+
+1131
+01:23:50,450 --> 01:23:52,450
+No other suspects in sight.
+
+1132
+01:23:53,470 --> 01:23:55,476
+Use thermal heat detection
+to track Shadow.
+
+1133
+01:23:55,500 --> 01:23:57,500
+I need visual inside.
+
+1134
+01:24:08,420 --> 01:24:09,420
+Captain!
+
+1135
+01:24:09,440 --> 01:24:11,440
+Inside the orphanage!
+
+1136
+01:24:15,470 --> 01:24:16,470
+Headquarters.
+
+1137
+01:24:16,490 --> 01:24:18,490
+This is Alpaca. Can anyone hear?
+
+1138
+01:24:18,520 --> 01:24:20,520
+Command center?
+
+1139
+01:24:20,540 --> 01:24:22,540
+We've lost communication. Command center?
+
+1140
+01:24:49,460 --> 01:24:51,460
+Friends, get to work!
+
+1141
+01:25:20,490 --> 01:25:22,490
+Chop him up!
+
+1142
+01:25:53,410 --> 01:25:56,410
+Do you know how many
+police are house me Gillinger?
+
+1143
+01:25:56,440 --> 01:25:58,440
+200.
+
+1144
+01:25:58,460 --> 01:26:00,460
+If I run, they'll kill me.
+
+1145
+01:26:01,480 --> 01:26:03,480
+So what did NB did you Domino?
+
+1146
+01:26:03,510 --> 01:26:05,510
+The fool who got caught
+
+1147
+01:26:05,530 --> 01:26:07,530
+becomes the bait.
+
+1148
+01:26:08,460 --> 01:26:10,460
+Then I eliminate the biggest threat
+
+1149
+01:26:10,480 --> 01:26:12,480
+in the Police Union.
+
+1150
+01:26:13,400 --> 01:26:15,400
+That blinds the police.
+
+1151
+01:26:18,430 --> 01:26:21,430
+Then I finish off that fool,
+
+1152
+01:26:23,450 --> 01:26:25,450
+and cut off police ears too Parsons too.
+
+1153
+01:26:27,480 --> 01:26:29,480
+ garn me the fool in my followers.
+
+1154
+01:26:34,400 --> 01:26:35,400
+But...
+
+1155
+01:26:35,420 --> 01:26:38,420
+first you have to make sure
+
+1156
+01:26:39,450 --> 01:26:41,450
+what's necessary.
+
+1157
+01:26:42,470 --> 01:26:44,470
+You've grown sop now.
+
+1158
+01:26:44,500 --> 01:26:46,500
+Do you understand what you're doing?
+
+1159
+01:26:49,420 --> 01:26:51,420
+Who do you think I and pr get?
+
+1160
+01:26:51,440 --> 01:26:53,440
+Kill him!
+
+1161
+01:27:06,470 --> 01:27:07,470
+Phone signal is blocked.
+
+1162
+01:27:07,490 --> 01:27:09,490
+Find a satellite phone
+to call for help.
+
+1163
+01:27:09,520 --> 01:27:11,520
+We'll buy time.
+
+1164
+01:27:39,440 --> 01:27:40,440
+There he ps closer!
+
+1165
+01:27:40,460 --> 01:27:42,460
+Have to kill him to get paid.
+
+1166
+01:28:11,490 --> 01:28:12,990
+Shadow sent a message in Braille.
+
+1167
+01:28:13,010 --> 01:28:14,716
+Bubble wrap and sudoku all in Braille.
+
+1168
+01:28:14,740 --> 01:28:16,740
+Guoguo. Give that intel
+to Madam Wang.
+
+1169
+01:28:20,460 --> 01:28:22,460
+Guoguo!
+
+1170
+01:29:05,480 --> 01:29:07,480
+Why did the police get here so fast?
+
+1171
+01:29:32,410 --> 01:29:34,410
+Madam, we got this.
+
+1172
+01:30:18,430 --> 01:30:20,430
+Foster father.
+
+1173
+01:30:24,460 --> 01:30:25,460
+I failed.
+
+1174
+01:30:25,480 --> 01:30:26,480
+I'll find another way.
+
+1175
+01:30:26,500 --> 01:30:28,500
+You've been given a chance, Xiwang.
+
+1176
+01:30:28,530 --> 01:30:30,530
+If we get caught by the police,
+
+1177
+01:30:30,550 --> 01:30:32,550
+what would the old man do?
+
+1178
+01:30:32,580 --> 01:30:34,580
+It's nobody's fault.
+
+1179
+01:30:34,600 --> 01:30:36,400
+Just
+
+1180
+01:30:36,420 --> 01:30:38,420
+carelessness and bad luck.
+
+1181
+01:30:40,450 --> 01:30:42,450
+Simon's idea? My idea.
+
+1182
+01:30:55,470 --> 01:30:57,470
+Still think you're not like me?
+
+1183
+01:31:02,400 --> 01:31:04,400
+Xiwang, what are you
+doing? You don't understand
+
+1184
+01:31:05,420 --> 01:31:07,420
+how dangerous this person is.
+
+1185
+01:31:16,440 --> 01:31:17,440
+Go!
+
+1186
+01:31:17,470 --> 01:31:19,470
+This isn't part of the plan!
+
+1187
+01:31:23,490 --> 01:31:25,490
+This old man has to die here
+
+1188
+01:31:25,520 --> 01:31:29,420
+so you can be safe. Go!
+This isn't part of the plan!
+
+1189
+01:31:32,440 --> 01:31:34,440
+This is indeed my plan.
+
+1190
+01:31:39,460 --> 01:31:41,460
+I'm helping you one last time.
+
+1191
+01:31:43,490 --> 01:31:44,490
+You want to die?
+
+1192
+01:31:44,510 --> 01:31:46,410
+Simon's my brother.
+
+1193
+01:31:46,440 --> 01:31:47,640
+If he causes trouble...
+
+1194
+01:31:47,660 --> 01:31:49,660
+it's my job to fix it.
+I have no choice.
+
+1195
+01:31:53,480 --> 01:31:55,480
+Then I'll guide you to your path.
+
+1196
+01:31:57,410 --> 01:31:59,410
+Foster father!
+
+1197
+01:32:00,430 --> 01:32:02,430
+Your life
+
+1198
+01:32:02,460 --> 01:32:04,460
+also ends here.
+
+1199
+01:33:25,480 --> 01:33:27,480
+Ready yourself!
+
+1200
+01:34:48,400 --> 01:34:50,400
+He's a wolf.
+
+1201
+01:34:50,430 --> 01:34:52,430
+We're the wolf pups.
+
+1202
+01:34:55,450 --> 01:34:57,450
+He's our father.
+
+1203
+01:35:00,480 --> 01:35:02,480
+In my next life,
+
+1204
+01:35:04,400 --> 01:35:06,400
+I hope to be your biological son.
+
+1205
+01:36:12,420 --> 01:36:13,420
+Take care of them.
+
+1206
+01:36:13,450 --> 01:36:15,450
+Take care of their family.
+
+1207
+01:36:17,470 --> 01:36:19,470
+Yes, sir.
+
+1208
+01:36:35,400 --> 01:36:37,400
+Kandam, it's me.
+
+1209
+01:36:39,420 --> 01:36:41,420
+Gundam. Like a robot. What do we know?
+
+1210
+01:36:43,440 --> 01:36:45,446
+I just contacted Captain
+Wu. Big explosion at the orphanage.
+
+1211
+01:36:45,470 --> 01:36:47,470
+Shadow? Not quite sure.
+
+1212
+01:36:47,490 --> 01:36:49,490
+But we've already
+identified the attackers.
+
+1213
+01:36:49,520 --> 01:36:51,520
+On the surface, they
+are private security
+
+1214
+01:36:51,540 --> 01:36:53,440
+for VIP clients at the casino.
+
+1215
+01:36:53,460 --> 01:36:55,460
+But they also moonlight
+as mercenaries,
+
+1216
+01:36:55,490 --> 01:36:57,490
+taking high-risk jobs on the dark web.
+
+1217
+01:36:57,510 --> 01:36:59,410
+Alpaca contacted Evidence
+
+1218
+01:36:59,440 --> 01:37:00,840
+after receiving Pinky's message.
+
+1219
+01:37:00,860 --> 01:37:02,860
+We'll soon receive
+results thanks to him.
+
+1220
+01:37:05,480 --> 01:37:07,480
+That's Gordon D.
+
+1221
+01:37:09,410 --> 01:37:12,410
+Why are Duan's HK$10 billion
+in the police station's server?
+
+1222
+01:37:12,430 --> 01:37:15,436
+Without the decryption key, the loot
+can only be stored as digital evidence.
+
+1223
+01:37:15,460 --> 01:37:17,460
+The only way to access the crypto wallet
+
+1224
+01:37:17,480 --> 01:37:19,480
+is by using its digital key,
+activating the 12-word passphrase
+
+1225
+01:37:19,500 --> 01:37:21,500
+entered with nanosecond precision.
+
+1226
+01:37:22,430 --> 01:37:24,430
+They've been here.
+
+1227
+01:37:27,450 --> 01:37:29,450
+Madam, leave this to us.
+
+1228
+01:37:29,480 --> 01:37:31,480
+Be careful.
+
+1229
+01:37:33,400 --> 01:37:34,800
+We've received a report of
+a robbery, the robbers just left.
+
+1230
+01:37:34,820 --> 01:37:36,820
+4 men, early 20s.
+
+1231
+01:37:38,450 --> 01:37:40,450
+They're the SWAT guys from earlier.
+
+1232
+01:37:40,470 --> 01:37:42,470
+The perpetrator shut down the electricity
+
+1233
+01:37:42,500 --> 01:37:44,500
+to prevent us from remotely disabling the hacker.
+
+1234
+01:37:45,420 --> 01:37:48,100
+They need the local network
+within range to access the server.
+
+1235
+01:37:48,440 --> 01:37:49,440
+What does that mean?
+
+1236
+01:37:49,470 --> 01:37:51,470
+The hacker just got here.
+
+1237
+01:38:02,490 --> 01:38:04,490
+We were wrong.
+
+1238
+01:38:04,520 --> 01:38:06,420
+Why were we wrong?
+
+1239
+01:38:06,440 --> 01:38:08,440
+The old man got himself
+caught.
+
+1240
+01:38:09,460 --> 01:38:11,460
+Like an idiot.
+
+1241
+01:38:11,490 --> 01:38:13,490
+He was outsmarted by the police.
+
+1242
+01:38:16,410 --> 01:38:18,416
+The cop's house is too
+clean. Not a single router.
+
+1243
+01:38:18,440 --> 01:38:20,440
+That's very strange.
+
+1244
+01:38:20,460 --> 01:38:22,460
+It's impossible that the old man didn't notice.
+
+1245
+01:38:23,480 --> 01:38:25,480
+But he's still playing along.
+
+1246
+01:38:26,410 --> 01:38:28,410
+What are you trying to say?
+
+1247
+01:38:30,430 --> 01:38:32,430
+I think
+
+1248
+01:38:32,460 --> 01:38:34,460
+he actually kept
+
+1249
+01:38:34,480 --> 01:38:36,480
+the police off our trail.
+
+1250
+01:38:37,400 --> 01:38:39,400
+"Ghost Car" trap?
+
+1251
+01:38:42,430 --> 01:38:44,430
+He's not that noble.
+
+1252
+01:38:44,450 --> 01:38:46,450
+He's the most cunning,
+
+1253
+01:38:47,480 --> 01:38:49,480
+ruthless,
+
+1254
+01:38:49,500 --> 01:38:51,500
+and...
+
+1255
+01:38:56,420 --> 01:38:59,450
+He's a father.
+
+1256
+01:39:03,470 --> 01:39:05,470
+Calm down.
+
+1257
+01:39:05,500 --> 01:39:07,500
+Run first.
+
+1258
+01:39:07,520 --> 01:39:09,520
+Then we cry.
+
+1259
+01:39:38,440 --> 01:39:40,440
+We lost the SWAT vehicle in
+
+1260
+01:39:40,470 --> 01:39:42,470
+the CCTV blind spot on
+Calcada do Carmo street.
+
+1261
+01:39:42,490 --> 01:39:44,490
+The robbers are likely
+to escape tonight.
+
+1262
+01:39:44,520 --> 01:39:46,520
+Monitor every possible exit
+route and all departure schedules.
+
+1263
+01:39:46,540 --> 01:39:47,540
+Every route?
+
+1264
+01:39:47,560 --> 01:39:49,560
+That'll take a long time. We don't have time.
+
+1265
+01:39:49,590 --> 01:39:51,590
+What should we do now?
+
+1266
+01:39:52,410 --> 01:39:55,410
+Activate S.P.A.I.S. restore
+analysis and command authority.
+
+1267
+01:39:56,440 --> 01:39:57,440
+Alright.
+
+1268
+01:39:57,460 --> 01:39:59,460
+Have him study the robbers' old methods
+
+1269
+01:39:59,480 --> 01:40:01,480
+and predict their next moves.
+
+1270
+01:40:01,510 --> 01:40:03,510
+Also show him their
+latest methods.
+
+1271
+01:40:04,430 --> 01:40:06,430
+If possible... Madam.
+
+1272
+01:40:06,460 --> 01:40:08,460
+Spice Girls got a clue. That fast?
+
+1273
+01:40:09,480 --> 01:40:12,480
+Suspect vehicle disappeared
+in Calcada do Carmo.
+
+1274
+01:40:12,500 --> 01:40:15,400
+Within a 3 km radius, a black
+van was caught on camera.
+
+1275
+01:40:15,430 --> 01:40:17,430
+There's a 67% chance
+
+1276
+01:40:17,450 --> 01:40:19,450
+the robbers switched to this van.
+
+1277
+01:40:19,480 --> 01:40:21,480
+There's an 82% chance the robbers
+
+1278
+01:40:21,500 --> 01:40:23,500
+are heading to Wynn Palace. Wynn? Wynn again?
+
+1279
+01:40:24,420 --> 01:40:26,540
+I said study, not to repeat old answers.
+
+1280
+01:40:28,450 --> 01:40:31,470
+Don't move! Hands up!
+Don't move!
+
+1281
+01:40:31,500 --> 01:40:33,400
+Don't move!
+
+1282
+01:40:33,420 --> 01:40:34,420
+Put down the knife.
+
+1283
+01:40:34,440 --> 01:40:36,440
+Put down the knife!
+
+1284
+01:40:36,470 --> 01:40:37,470
+Put it down! Put down the knife!
+
+1285
+01:40:37,490 --> 01:40:39,490
+Don't move!
+
+1286
+01:40:44,420 --> 01:40:48,440
+Ting.
+
+1287
+01:40:49,460 --> 01:40:51,490
+Shadow is still alive.
+
+1288
+01:40:51,510 --> 01:40:53,410
+Kneel! Hands on your head!
+
+1289
+01:40:53,440 --> 01:40:55,460
+Kneel! Hands on your head!
+
+1290
+01:40:55,480 --> 01:40:57,480
+Kneel!
+
+1291
+01:41:04,410 --> 01:41:06,410
+Dad!
+
+1292
+01:41:14,430 --> 01:41:17,460
+Kneel down! Hands on your head!
+
+1293
+01:41:17,480 --> 01:41:19,480
+Kneel down!
+
+1294
+01:41:23,400 --> 01:41:25,400
+Wynn Palace.
+
+1295
+01:41:27,430 --> 01:41:29,430
+Take me there.
+
+1296
+01:41:29,450 --> 01:41:31,450
+There's someone you haven't met yet.
+
+1297
+01:41:32,480 --> 01:41:34,480
+I'll inline.
+
+1298
+01:41:39,400 --> 01:41:42,400
+Spice Girl found a vehicle
+relevant to a possible route
+
+1299
+01:41:42,420 --> 01:41:44,426
+leading to suspicious individuals. [[BR]]]Is their identity suspicious?
+
+1300
+01:41:44,450 --> 01:41:45,650
+No. A number of them.
+
+1301
+01:41:45,670 --> 01:41:47,470
+Wynn has an art exhibition.
+
+1302
+01:41:47,500 --> 01:41:49,500
+All paintings are being flown
+back to Paris tonight.
+
+1303
+01:41:49,520 --> 01:41:52,420
+Six Chinese personnel were Inline[[[ sop]]] into passenger list 2 days ago.
+
+1304
+01:41:52,440 --> 01:41:55,446
+And on the night of the last robbery,
+Wynn also had artwork left behind.
+
+1305
+01:41:55,470 --> 01:41:57,470
+This Spice Girl is talented.
+
+1306
+01:41:59,490 --> 01:42:01,490
+WYNN PALACE
+
+1307
+01:42:18,420 --> 01:42:19,720
+Police. That fast?
+
+1308
+01:42:19,740 --> 01:42:21,740
+Plan B.
+
+1309
+01:42:49,460 --> 01:42:51,460
+Doghead here. Target X
+may be in the laundry room.
+
+1310
+01:42:52,490 --> 01:42:54,490
+Pinky, south door of the laundry room.
+
+1311
+01:42:54,510 --> 01:42:55,510
+Golover.
+
+1312
+01:42:55,540 --> 01:42:57,540
+Estimated time for Watch team?
+
+1313
+01:43:11,460 --> 01:43:13,460
+Leave him to us inline; you go.
+
+1314
+01:43:19,480 --> 01:43:20,480
+Pinky.
+
+1315
+01:43:20,510 --> 01:43:22,510
+Target X has left the laundry room.
+
+1316
+01:43:23,440 --> 01:43:25,446
+Little Dog and Cute Face
+" inline" demonstrating their skills.
+
+1317
+01:43:25,470 --> 01:43:27,470
+I need to talk to them.
+
+1318
+01:43:27,490 --> 01:43:29,490
+Trying to force them
+to surrender. Surrender my foot!
+
+1319
+01:43:33,410 --> 01:43:36,410
+Attention all units. Wynn Palace
+South Lawn is crowded.
+
+1320
+01:43:36,440 --> 01:43:38,440
+Seems like there's an event tonight.
+
+1321
+01:44:14,460 --> 01:44:15,460
+Cancel that name.
+
+1322
+01:44:15,490 --> 01:44:17,490
+This puppy
+is mad at Psycho Cat.
+
+1323
+01:44:36,410 --> 01:44:38,410
+Pinky to Doghead.
+
+1324
+01:44:38,430 --> 01:44:40,430
+Talk, Pinky! I'm at the party.
+
+1325
+01:44:40,460 --> 01:44:41,660
+I think he's here,
+
+1326
+01:44:41,680 --> 01:44:43,680
+but I can't find him. Stay calm.
+
+1327
+01:44:44,410 --> 01:44:46,410
+Doghead to Animal Paradise.
+
+1328
+01:44:46,430 --> 01:44:48,430
+Use Shadow's number to
+call him. A.I. voice imitation?
+
+1329
+01:44:48,450 --> 01:44:50,450
+Let the old man talk to him.
+
+1330
+01:44:53,480 --> 01:44:55,480
+Acknowledged.
+
+1331
+01:45:07,400 --> 01:45:09,400
+Foster dad?
+
+1332
+01:45:13,430 --> 01:45:15,430
+Xiwang died in vain.
+
+1333
+01:45:20,450 --> 01:45:22,450
+Tracking target X's phone now.
+
+1334
+01:45:22,470 --> 01:45:24,470
+No anti-tracking.
+He's not hiding anymore.
+
+1335
+01:45:24,500 --> 01:45:26,500
+Pinky. Focus.
+
+1336
+01:45:26,520 --> 01:45:28,520
+Observe people's reactions. Understood.
+
+1337
+01:45:29,450 --> 01:45:31,450
+Simon,
+
+1338
+01:45:31,470 --> 01:45:33,470
+the police are fishing for you.
+
+1339
+01:45:34,490 --> 01:45:36,490
+If the police catch you today,
+
+1340
+01:45:36,520 --> 01:45:38,520
+I'll be very disappointed.
+
+1341
+01:45:39,440 --> 01:45:41,440
+Maybe I've already disappointed you.
+
+1342
+01:45:44,470 --> 01:45:46,470
+You have a good plan today.
+
+1343
+01:45:47,490 --> 01:45:48,490
+I like it.
+
+1344
+01:45:48,510 --> 01:45:51,410
+Thank you, foster dad. But...
+
+1345
+01:45:51,440 --> 01:45:53,440
+anyone who understands
+what they're doing
+
+1346
+01:45:53,460 --> 01:45:55,460
+will settle everything themselves.
+
+1347
+01:45:56,490 --> 01:45:58,490
+I'll remember.
+
+1348
+01:46:00,410 --> 01:46:02,410
+In this case,
+
+1349
+01:46:02,430 --> 01:46:04,430
+Xiwang did a better job.
+
+1350
+01:46:17,460 --> 01:46:19,460
+I sincerely hope you all can
+
+1351
+01:46:19,480 --> 01:46:22,480
+live the life you want.
+
+1352
+01:46:35,410 --> 01:46:37,410
+This is the last time I'll help you.
+
+1353
+01:46:43,430 --> 01:46:45,430
+Shadow is deliberately stalling.
+There's a chance to identify him
+
+1354
+01:46:45,450 --> 01:46:46,456
+if he tries to move.
+
+1355
+01:46:46,480 --> 01:46:49,480
+Pinky. Remember the key tracking points?
+
+1356
+01:46:49,500 --> 01:46:51,400
+Look for distinctive and permanent features.
+
+1357
+01:46:51,430 --> 01:46:53,430
+It's okay if your memory is hazy.
+
+1358
+01:46:54,450 --> 01:46:57,010
+When you see that feature, your brain
+automatically starts to help you.
+
+1359
+01:47:39,470 --> 01:47:41,470
+I see him.
+
+1360
+01:47:41,500 --> 01:47:43,500
+He...
+
+1361
+01:47:43,520 --> 01:47:45,520
+Hello?
+
+1362
+01:48:03,450 --> 01:48:05,450
+Get me out!
+
+1363
+01:49:03,470 --> 01:49:06,470
+Madam, Pinky is not responding.
+Potsticker and Tofu are at the location.
+
+1364
+01:49:06,490 --> 01:49:08,490
+We need the characteristics of Target X.
+
+1365
+01:49:08,520 --> 01:49:11,420
+Too many people at the party. Everyone
+looks like Target X to me now.
+
+1366
+01:49:11,440 --> 01:49:13,440
+Your Target X is 180 cm tall
+
+1367
+01:49:13,470 --> 01:49:15,470
+weighing 68 kg.
+
+1368
+01:49:15,490 --> 01:49:17,490
+Long hair. That's Wu Yaolei's
+communication device.
+
+1369
+01:49:17,510 --> 01:49:19,410
+He's sneaking into the VIP area.
+
+1370
+01:49:19,440 --> 01:49:21,440
+Animal Paradise, any valid info?
+
+1371
+01:49:22,460 --> 01:49:24,460
+Stop him.
+
+1372
+01:49:27,490 --> 01:49:29,490
+Use my earpiece. I'll
+grab another one from the car.
+
+1373
+01:49:29,510 --> 01:49:31,510
+Report your position.
+They're worried about you.
+
+1374
+01:49:31,530 --> 01:49:33,610
+Shadow has identified
+Target X. Stay calm.
+
+1375
+01:49:35,460 --> 01:49:37,460
+He and that driver are twins.
+
+1376
+01:49:40,480 --> 01:49:42,480
+Pinky at Animal Paradise.
+
+1377
+01:49:42,510 --> 01:49:44,510
+Sorry for the worry.
+Glad you're okay.
+
+1378
+01:49:44,530 --> 01:49:47,430
+Find anything? The target and
+that driver are twins.
+
+1379
+01:49:52,450 --> 01:49:54,450
+VIP area, I might have found him.
+
+1380
+01:49:59,480 --> 01:50:01,480
+Who are you? Sorry.
+
+1381
+01:50:04,400 --> 01:50:06,406
+Shouldn't have trusted
+Shadow. He has his reasons.
+
+1382
+01:50:06,430 --> 01:50:08,430
+Everyone, report your positions.
+Tofu, south entrance.
+
+1383
+01:50:08,450 --> 01:50:11,450
+Potsticker, north entrance.
+Fat Bun, north side of the dance floor.
+
+1384
+01:50:11,470 --> 01:50:13,470
+Rice Noodle and Lucky, laundry room.
+
+1385
+01:50:13,500 --> 01:50:14,500
+Alpaca.
+
+1386
+01:50:14,520 --> 01:50:15,520
+Where is Alpaca?
+
+1387
+01:50:15,550 --> 01:50:17,550
+He gave me his earpiece,
+went to get another one.
+
+1388
+01:50:17,570 --> 01:50:20,470
+No new communication device has been
+activated. His badge GPS shows
+
+1389
+01:50:20,490 --> 01:50:22,490
+he's heading to Cotai East LRT station.
+
+1390
+01:50:30,420 --> 01:50:32,420
+He and that driver are twins!
+
+1391
+01:51:38,440 --> 01:51:40,440
+Are you implying that...?
+
+1392
+01:51:42,470 --> 01:51:44,470
+It no longer matters.
+
+1393
+01:52:02,490 --> 01:52:04,490
+Fragile.
+
+1394
+01:52:04,510 --> 01:52:05,510
+Lucky.
+
+1395
+01:52:05,540 --> 01:52:06,540
+Calm.
+
+1396
+01:52:06,560 --> 01:52:08,560
+Energy.
+
+1397
+01:52:10,490 --> 01:52:11,490
+Target.
+
+1398
+01:52:11,510 --> 01:52:13,410
+Amateur.
+
+1399
+01:52:13,430 --> 01:52:14,430
+Family.
+
+1400
+01:52:14,460 --> 01:52:16,460
+Shadow.
+
+1401
+01:52:16,480 --> 01:52:17,480
+Betrayal.
+
+1402
+01:52:17,510 --> 01:52:19,510
+Grateful. Blind.
+
+1403
+01:52:23,430 --> 01:52:25,430
+Times have changed.
+
+1404
+01:52:25,450 --> 01:52:27,450
+But rules remain rules.
+
+1405
+01:52:28,480 --> 01:52:29,480
+Simon...
+
+1406
+01:52:29,500 --> 01:52:31,500
+goodbye.
+
+1407
+01:52:37,430 --> 01:52:39,430
+He's dead!
+
+1408
+01:52:43,450 --> 01:52:45,450
+Madam, Officer Wong,
+
+1409
+01:52:45,470 --> 01:52:47,470
+we captured 2
+more. Without Shadow's guidance,
+
+1410
+01:52:47,500 --> 01:52:49,500
+they have nowhere to hide.
+
+1411
+01:52:49,520 --> 01:52:51,520
+What is the situation?
+
+1412
+01:52:52,450 --> 01:52:54,450
+Ma'am, Officer Wong...
+
+1413
+01:53:03,470 --> 01:53:04,670
+Liu Jinxiao. His vein was cut.
+
+1414
+01:53:04,690 --> 01:53:06,690
+Guoguo, apply pressure to the wound.
+
+1415
+01:53:06,720 --> 01:53:08,720
+Don't let him move.
+
+1416
+01:53:08,740 --> 01:53:10,740
+Black hat, dark blue jacket,
+
+1417
+01:53:15,470 --> 01:53:17,470
+black jeans. Jinxiao!
+
+1418
+01:53:17,490 --> 01:53:19,490
+Jinxiao, don't fall asleep!
+
+1419
+01:53:19,510 --> 01:53:22,410
+Ambulance!
+
+1420
+01:53:23,440 --> 01:53:25,440
+Ambulance!
+
+1421
+01:53:40,490 --> 01:53:42,490
+I understand your feelings,
+
+1422
+01:53:42,510 --> 01:53:44,510
+but another unit has been assigned
+to follow up.
+
+1423
+01:53:44,530 --> 01:53:46,530
+We have a new task now.
+
+1424
+01:53:50,460 --> 01:53:52,460
+In that case, I'll take a leave.
+
+1425
+01:53:52,480 --> 01:53:54,480
+I need a break, personal reasons.
+
+1426
+01:54:16,410 --> 01:54:19,410
+What are you doing here?
+Wu sent this order
+
+1427
+01:54:19,430 --> 01:54:21,430
+to accompany someone on leave.
+
+1428
+01:54:21,450 --> 01:54:23,450
+Eat up.
+
+1429
+01:54:23,480 --> 01:54:24,480
+Thank you.
+
+1430
+01:54:24,500 --> 01:54:27,400
+What's the status? No leads.
+
+1431
+01:54:27,430 --> 01:54:29,430
+It's as if Shadow vanished into thin air.
+
+1432
+01:54:48,450 --> 01:54:49,450
+Money.
+
+1433
+01:54:49,470 --> 01:54:51,470
+Always leaves a trail,
+
+1434
+01:54:52,400 --> 01:54:54,400
+especially in cases like this.
+
+1435
+01:54:59,420 --> 01:55:02,420
+This is where the victim's crypto
+was first transferred.
+
+1436
+01:55:02,450 --> 01:55:04,450
+The kids claimed only 2
+people knew the password.
+
+1437
+01:55:04,470 --> 01:55:06,470
+One of them is dead.
+
+1438
+01:55:06,490 --> 01:55:08,490
+And the money wasn't moved, right?
+
+1439
+01:55:08,520 --> 01:55:10,420
+Not a single cent.
+
+1440
+01:55:10,440 --> 01:55:12,440
+Do you remember what
+I said about the type of thief
+
+1441
+01:55:12,470 --> 01:55:14,470
+Shadow might be?
+
+1442
+01:55:15,490 --> 01:55:18,490
+Old-fashioned people. Traditional.
+
+1443
+01:55:19,410 --> 01:55:21,410
+I don't know anything about this,
+
+1444
+01:55:21,440 --> 01:55:23,440
+and I suspect
+
+1445
+01:55:23,460 --> 01:55:26,460
+he doesn't either. He's
+still a man of his time.
+
+1446
+01:55:30,490 --> 01:55:32,490
+What do you think he'll do?
+
+1447
+01:55:37,410 --> 01:55:39,410
+He doesn't know how to unload crypto.
+
+1448
+01:55:44,430 --> 01:55:47,430
+Fu is an old-school thief. His old method
+
+1449
+01:55:47,460 --> 01:55:49,460
+was robbing jewelry stores
+
+1450
+01:55:49,480 --> 01:55:51,480
+and forcing victims
+to buy back the stolen goods
+
+1451
+01:55:51,510 --> 01:55:54,150
+to avoid trouble and
+deal with the receiver.
+
+1452
+01:55:59,430 --> 01:56:01,430
+That's all he knows.
+
+1453
+01:56:03,450 --> 01:56:04,450
+Let's eat. No time.
+
+1454
+01:56:04,480 --> 01:56:06,480
+Let's go.
+
+1455
+01:56:16,400 --> 01:56:20,430
+Why not use the door?
+
+1456
+01:56:23,450 --> 01:56:26,450
+Sophia, where are you?
+
+1457
+01:56:27,470 --> 01:56:28,470
+Where's my milk?
+
+1458
+01:56:28,500 --> 01:56:30,500
+It's been days.
+
+1459
+01:56:30,520 --> 01:56:32,520
+Did I misunderstand?
+
+1460
+01:56:33,450 --> 01:56:35,450
+Trust your instincts.
+
+1461
+01:56:35,470 --> 01:56:37,470
+Blame me if I'm wrong.
+
+1462
+01:56:40,490 --> 01:56:42,490
+That's indeed my plan.
+
+1463
+01:56:43,420 --> 01:56:46,420
+I've been thinking over the past few days.
+
+1464
+01:56:48,440 --> 01:56:50,440
+Carrying out missions is our duty.
+
+1465
+01:56:51,470 --> 01:56:53,470
+But having blood, emotions,
+
+1466
+01:56:53,490 --> 01:56:55,490
+and a heart...
+
+1467
+01:56:55,510 --> 01:56:57,510
+That's our nature.
+
+1468
+01:56:59,440 --> 01:57:01,440
+Being a cop shouldn't
+take that away.
+
+1469
+01:57:07,460 --> 01:57:09,460
+So, back then...
+
+1470
+01:57:12,490 --> 01:57:14,490
+you didn't do anything wrong.
+
+1471
+01:57:48,410 --> 01:57:50,410
+Police.
+
+1472
+01:57:50,430 --> 01:57:52,430
+Everyone out.
+
+1473
+01:57:55,460 --> 01:57:57,460
+I know you want to make up a story,
+
+1474
+01:57:57,480 --> 01:58:00,480
+but don't make yourself an accomplice.
+
+1475
+01:58:02,410 --> 01:58:05,410
+Fu demanded 10 million cash
+from Wang for the account password.
+
+1476
+01:58:05,430 --> 01:58:07,430
+Meeting at Tin Seng Tea
+House. I'll inform Captain Wu.
+
+1477
+01:58:07,450 --> 01:58:09,450
+Don't act before we get there.
+
+1478
+01:58:15,480 --> 01:58:17,480
+Wu, your ETA? 10 minutes.
+
+1479
+01:58:17,500 --> 01:58:19,500
+Officer Wong. Less than 5 minutes.
+
+1480
+01:58:24,430 --> 01:58:26,430
+We've tapped Qiuguo's phone.
+
+1481
+01:58:26,450 --> 01:58:28,450
+Understood. Understood.
+
+1482
+01:58:32,470 --> 01:58:34,470
+Sound check. Clear.
+
+1483
+01:58:35,400 --> 01:58:37,400
+Wang is 10 minutes late.
+
+1484
+01:58:37,420 --> 01:58:39,420
+He could leave at any moment.
+
+1485
+01:58:47,450 --> 01:58:49,450
+He's about to leave.
+
+1486
+01:58:54,470 --> 01:58:56,470
+Hey. Next time use the front door.
+
+1487
+01:59:17,490 --> 01:59:19,490
+It's a small world.
+
+1488
+01:59:30,420 --> 01:59:32,420
+Alone?
+
+1489
+01:59:35,440 --> 01:59:37,440
+You've got the wrong person.
+
+1490
+01:59:39,470 --> 01:59:41,470
+Don't you know me?
+
+1491
+01:59:43,490 --> 01:59:45,490
+We've had dinner together.
+
+1492
+01:59:45,510 --> 01:59:47,510
+Have you forgotten me?
+
+1493
+01:59:51,440 --> 01:59:53,440
+Do you need something?
+
+1494
+02:00:04,460 --> 02:00:06,460
+Oh, I'm so touched.
+
+1495
+02:00:06,490 --> 02:00:09,490
+So it's you. Uncle.
+
+1496
+02:00:09,510 --> 02:00:11,510
+Why are you dressed like that? Your hair
+
+1497
+02:00:11,530 --> 02:00:14,430
+scared me. I thought
+you were a creepy old man
+
+1498
+02:00:14,460 --> 02:00:16,460
+trying to hit on me.
+
+1499
+02:00:19,480 --> 02:00:21,480
+Sorry for scaring you. Forgive me.
+
+1500
+02:00:21,510 --> 02:00:23,510
+It's okay.
+
+1501
+02:00:25,430 --> 02:00:27,430
+You're about to leave.
+
+1502
+02:00:27,450 --> 02:00:29,450
+Are you planning to follow me?
+
+1503
+02:00:38,480 --> 02:00:40,480
+Alone?
+
+1504
+02:00:41,400 --> 02:00:42,400
+Excuse me?
+
+1505
+02:00:42,430 --> 02:00:45,430
+What do you mean?
+
+1506
+02:00:46,450 --> 02:00:48,450
+A few days ago, you were at Wynn.
+
+1507
+02:00:50,470 --> 02:00:52,470
+You were with a guy.
+
+1508
+02:00:55,400 --> 02:00:57,400
+Where is that guy now?
+
+1509
+02:01:03,420 --> 02:01:05,420
+Dead.
+
+1510
+02:01:05,450 --> 02:01:07,450
+Breakup?
+
+1511
+02:01:07,470 --> 02:01:09,470
+Didn't you hear what I said?
+
+1512
+02:01:11,490 --> 02:01:13,490
+He's dead.
+
+1513
+02:01:13,520 --> 02:01:15,520
+Team 2. Seal Ponte Cais de
+Coloane and R. Navegantes.
+
+1514
+02:01:15,540 --> 02:01:18,440
+Team 3, go to Entre-Campos,
+Cordoaria and Cheoc Van.
+
+1515
+02:01:21,470 --> 02:01:23,470
+He was killed at the LRT station.
+
+1516
+02:01:43,490 --> 02:01:45,490
+The guy was a cop,
+
+1517
+02:01:48,410 --> 02:01:50,410
+just like you. You're crazy!
+
+1518
+02:01:50,440 --> 02:01:52,440
+Stay away from me!
+
+1519
+02:01:53,460 --> 02:01:55,460
+Go!
+
+1520
+02:02:03,490 --> 02:02:05,490
+You managed to waste my time. Kid...
+
+1521
+02:02:05,510 --> 02:02:07,510
+you're quite skilled.
+
+1522
+02:02:21,430 --> 02:02:23,430
+Guoguo.
+
+1523
+02:02:24,460 --> 02:02:26,460
+Call an ambulance! Police!
+
+1524
+02:02:28,480 --> 02:02:30,480
+Get out of here!
+
+1525
+02:02:44,510 --> 02:02:46,510
+Please go through the front door.
+
+1526
+02:03:46,430 --> 02:03:49,430
+My West Lake sour fish. Do you like it?
+
+1527
+02:03:53,450 --> 02:03:55,450
+It tastes terrible!
+
+1528
+02:03:55,480 --> 02:03:57,480
+Drop dead!
+
+1529
+02:03:59,400 --> 02:04:01,400
+Come with me.
+
+1530
+02:06:26,430 --> 02:06:28,430
+Let's go!
+
+1531
+02:06:36,440 --> 02:06:38,440
+Come on!
+
+1532
+02:07:24,460 --> 02:07:26,460
+Guoguo!
+
+1533
+02:08:03,490 --> 02:08:05,490
+Are you okay? The wound isn't deep.
+
+1534
+02:08:05,510 --> 02:08:07,510
+I'll be fine.
+
+1535
+02:08:08,440 --> 02:08:10,440
+Help is almost here.
+Earpiece is in the pocket.
+
+1536
+02:08:11,460 --> 02:08:13,460
+Guoguo... chase him!
+
+1537
+02:08:16,480 --> 02:08:18,600
+The target is heading to the front door.
+Wearing a wig and black jacket.
+
+1538
+02:08:19,410 --> 02:08:21,410
+I'll go after him.
+
+1539
+02:08:47,430 --> 02:08:50,430
+Pinky, he's heading north.
+No CCTV in that alley.
+
+1540
+02:08:50,460 --> 02:08:52,460
+You'll have to find him yourself.
+
+1541
+02:08:57,480 --> 02:08:59,480
+Possible suspect sighted.
+
+1542
+02:09:03,400 --> 02:09:05,400
+It's not Shadow after all.
+
+1543
+02:09:08,430 --> 02:09:10,430
+The roads are so confusing,
+I can't find him.
+
+1544
+02:09:10,450 --> 02:09:12,450
+Qiuguo, stay calm.
+
+1545
+02:09:13,480 --> 02:09:15,480
+Calm yourself.
+
+1546
+02:09:20,400 --> 02:09:22,400
+I can't find him.
+
+1547
+02:09:24,420 --> 02:09:26,420
+Pinky, help is almost there.
+
+1548
+02:09:26,450 --> 02:09:28,450
+He can't be far. You can do it.
+
+1549
+02:09:34,470 --> 02:09:36,470
+Remember the key tracking points?
+
+1550
+02:09:36,500 --> 02:09:38,500
+He Qiuguo?
+
+1551
+02:09:39,420 --> 02:09:40,820
+Pay attention and remember.
+
+1552
+02:09:40,840 --> 02:09:42,440
+You only have one look.
+
+1553
+02:09:42,470 --> 02:09:45,470
+Focus on the key spots. Alone?
+
+1554
+02:09:48,490 --> 02:09:49,490
+Remember.
+
+1555
+02:09:49,520 --> 02:09:51,520
+Active recall first.
+
+1556
+02:09:51,540 --> 02:09:53,540
+Where's that guy? Gradually...
+
+1557
+02:09:53,560 --> 02:09:56,460
+Breakup? You'll start
+remembering subconsciously.
+
+1558
+02:10:04,490 --> 02:10:06,490
+Catch him!
+
+1559
+02:10:08,410 --> 02:10:10,410
+Hand.
+
+1560
+02:10:16,440 --> 02:10:18,440
+Bandage.
+
+1561
+02:10:35,460 --> 02:10:36,460
+Target spotted.
+
+1562
+02:10:36,480 --> 02:10:37,486
+I'm chasing him. Where are you?
+
+1563
+02:10:37,510 --> 02:10:39,510
+North alley on R. do Meio
+
+1564
+02:10:39,530 --> 02:10:41,530
+Wu, prepare for arrest.
+We've arrived.
+
+1565
+02:10:46,460 --> 02:10:48,460
+Sir, don't take painkillers like that.
+
+1566
+02:10:49,480 --> 02:10:51,480
+Guoguo.
+
+1567
+02:10:51,500 --> 02:10:53,500
+You can do it.
+
+1568
+02:10:56,430 --> 02:10:58,430
+Wait!
+
+1569
+02:10:58,450 --> 02:11:00,456
+Qiuguo, if I set a trap
+at Chapel St. Francis Xavier,
+
+1570
+02:11:00,480 --> 02:11:02,480
+can you steer him this way?
+
+1571
+02:11:02,500 --> 02:11:04,500
+Captain, I can't do this alone.
+
+1572
+02:11:05,420 --> 02:11:07,420
+I need my team. I need the Surveillance Team.
+
+1573
+02:11:08,450 --> 02:11:10,450
+Pinky, missed us?
+
+1574
+02:11:12,470 --> 02:11:14,470
+Central, Fat Bun in position.
+
+1575
+02:11:14,500 --> 02:11:15,500
+I'm at your 8 o'clock.
+
+1576
+02:11:15,520 --> 02:11:17,520
+Potsticker parallel, 3 o'clock.
+
+1577
+02:11:17,540 --> 02:11:19,540
+Eggy in position. Tofu in position shocking.
+
+1578
+02:11:19,570 --> 02:11:21,570
+9 o'clock, next street.
+
+1579
+02:11:25,490 --> 02:11:27,490
+Calling Animal Paradise.
+
+1580
+02:11:27,520 --> 02:11:29,520
+Doghead is secure.
+
+1581
+02:11:31,440 --> 02:11:33,440
+Rice Noodle at 2 o'clock.
+
+1582
+02:11:33,460 --> 02:11:35,460
+I've studied and하시 analyzed Shadow's habits.
+
+1583
+02:11:35,490 --> 02:11:38,490
+From this point, there are
+165 possible escape routes.
+
+1584
+02:11:38,510 --> 02:11:41,410
+17 of them reach
+Chapel St. Francis Xavier.
+
+1585
+02:11:43,440 --> 02:11:45,440
+Pudding behind you.
+
+1586
+02:11:45,460 --> 02:11:47,460
+Lucky directly ahead of target.
+
+1587
+02:11:47,480 --> 02:11:49,480
+Coordinates and direction to the team.
+
+1588
+02:11:49,510 --> 02:11:51,510
+I'll keep calculating his route choices
+and you'll be informed.
+
+1589
+02:11:51,530 --> 02:11:53,530
+Doghead calling Animal Paradise.
+
+1590
+02:11:53,560 --> 02:11:55,560
+Paws Unit on site.
+
+1591
+02:11:57,480 --> 02:11:59,480
+Alpaca in position.
+
+1592
+02:12:00,400 --> 02:12:02,400
+Calling Animal Paradise.
+
+1593
+02:12:04,430 --> 02:12:05,430
+Pinky on position.
+
+1594
+02:12:05,450 --> 02:12:07,456
+Attention, Cute Unit, Field
+Chapel St. Francis Xavier
+
+1595
+02:12:07,480 --> 02:12:09,480
+about 280 meters northwest
+
+1596
+02:12:09,500 --> 02:12:11,500
+from current target location.
+
+1597
+02:12:11,520 --> 02:12:13,520
+Shadow is injured. He values his life.
+
+1598
+02:12:13,550 --> 02:12:15,550
+All he wants now is to escape.
+
+1599
+02:12:15,570 --> 02:12:17,930
+He won't risk getting shot
+to harm you.
+
+1600
+02:12:18,400 --> 02:12:20,400
+Cute Unit. You're the hunters now.
+
+1601
+02:12:21,420 --> 02:12:23,420
+Surround and hunt.
+
+1602
+02:13:41,440 --> 02:13:43,440
+Don't move!
+
+1603
+02:13:47,470 --> 02:13:49,470
+Hands above your head!
+
+1604
+02:14:10,490 --> 02:14:12,490
+I'm fine.
+
+1605
+02:14:22,420 --> 02:14:24,420
+I'm the police.
+
+1606
+02:14:24,440 --> 02:14:26,440
+Fu Longsheng, you're under arrest.
+
+1607
+02:14:30,460 --> 02:14:32,460
+Madam.
+
+1608
+02:14:32,490 --> 02:14:34,490
+He Qiuguo.
+
+1609
+02:14:36,410 --> 02:14:38,410
+You're the one who made this happen.
+
+1610
+02:14:39,440 --> 02:14:41,440
+You cuff me.
+
+1611
+02:14:51,460 --> 02:14:53,460
+What's so funny?
+
+1612
+02:14:53,480 --> 02:14:55,480
+You're quite the fighter.
+
+1613
+02:14:55,510 --> 02:14:57,510
+Silence!
+
+1614
+02:14:57,530 --> 02:14:59,530
+Guoguo.
+
+1615
+02:15:10,460 --> 02:15:12,460
+Command Center,
+
+1616
+02:15:12,480 --> 02:15:14,480
+we have detained Fu Longsheng.
+
+1617
+02:15:21,400 --> 02:15:22,400
+Very good.
+
+1618
+02:15:22,430 --> 02:15:24,430
+Your father must be very proud.
+
+1619
+02:15:29,450 --> 02:15:31,450
+Sir.
+
+1620
+02:15:33,480 --> 02:15:35,480
+Request to join the interrogation.
+Aren't you on leave?
+
+1621
+02:15:35,500 --> 02:15:37,500
+Request to end my leave.
+
+1622
+02:15:39,420 --> 02:15:41,420
+I really miss my job.
+
+1623
+02:15:42,450 --> 02:15:45,450
+We will definitely need your help later.
+
+1624
+02:15:46,470 --> 02:15:48,470
+I've already taught them
+
+1625
+02:15:48,500 --> 02:15:50,500
+everything I know.
+
+1626
+02:15:50,520 --> 02:15:53,420
+I want to return to my retirement.
+
+1627
+02:15:54,440 --> 02:15:56,440
+To the hospital first!
+
